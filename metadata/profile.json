@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "version": "v1.0",
+  "exe_sha256": "5e35e58d2d133dadeed4b233b7f962f9c941c3d635feb9d3a067a63c340dadf9",
+  "files": {
+    "MESSAGEE.IO": {
+      "sha256": "7ef08cd36e37d6a519a66e8288859488fd6782a4770dd50da60f65e131455313",
+      "decoded_size": 12598
+    },
+    "MESSAGED.IO": {
+      "sha256": "94f80de429cc62844da5f46aae1fc746f5c6ace5d20208d1173462a10dfb06ce",
+      "decoded_size": 13062
+    },
+    "MESSAGE.IO": {
+      "sha256": "d180a5d858c7d188bc1ccf4546c3561bfed1779b8389ad10e7c74599a73e2742",
+      "decoded_size": 12958
+    },
+    "TEXTINE.IO": {
+      "sha256": "a8f9dc4b7be0c4b5034e284f8af2699693dcd16bcda5704f89dc42f411a2e1c6",
+      "decoded_size": 17366
+    },
+    "TEXTIND.IO": {
+      "sha256": "b36ded430e7d183ad29be627679aaf8823aeae5cb056394253dec118f048465d",
+      "decoded_size": 17606
+    },
+    "TEXTIN.IO": {
+      "sha256": "e0c8293e19017f3e90f4c0b2d812b5a9a85052673be9acc18df3f686c1a65a6c",
+      "decoded_size": 17950
+    },
+    "PRESENT.IO": {
+      "sha256": "700f1f8d116feb25d9aa9155dd432d7b0c56f5a45bf9c23a8633a82780e22bab",
+      "decoded_size": 153614
+    },
+    "MAIN.IO": {
+      "sha256": "bfab5e9175931dbb1c2c51f0576092ef423e0bf950579340c8a1715e8cf8db95",
+      "decoded_size": 27774
+    },
+    "GERDEP.IO": {
+      "sha256": "58d2c57ff3eb8318ac73512d5a89292477fbcc892a4ceb6d75bf7de58b88da4b",
+      "decoded_size": 8742
+    },
+    "MAP.IO": {
+      "sha256": "1815a8b78823de27c96731732b3b5ce8ccba5eaf89313d379276e73d15b66076",
+      "decoded_size": 130286
+    },
+    "MARCHAND.IO": {
+      "sha256": "a5b84f95b8b50f1c68fc8e6c368a67742f9f96a67ca033d6e72ee4d7c4673529",
+      "decoded_size": 105030
+    },
+    "TAVERNE.IO": {
+      "sha256": "ea315973f2187950f7ac72a6c6db4565dd0fd67ede241d56e8a73175fa8bf804",
+      "decoded_size": 55558
+    },
+    "TABLEAU.IO": {
+      "sha256": "c25bfe28d79869f2b2a347b92d4a307786cf9d521c6b5d8292e924a20ddd85fa",
+      "decoded_size": 8678
+    }
+  },
+  "patched_files": [
+    "GERDEP.IO",
+    "MAIN.IO",
+    "MAP.IO",
+    "MARCHAND.IO",
+    "MESSAGED.IO",
+    "PRESENT.IO",
+    "TABLEAU.IO",
+    "TAVERNE.IO",
+    "TEXTIND.IO"
+  ],
+  "native_tail_normalization": {
+    "MARCHAND.IO": {
+      "offset": 105029,
+      "value": 163
+    }
+  },
+  "layout_fix": {
+    "file": "TEXTIND.IO",
+    "offset": 7419,
+    "before": 2,
+    "after": 3
+  },
+  "reference_release_sha256": {
+    "GERDEP.IO": "c80867c622a1ac9fdf6fc88fcdec99200f4aebf75f7fb8993b20f20babd5786a",
+    "MAIN.IO": "e29e3ac7f631339d5968b5a6bcf3561f7f33afd837ae07fc9c62f6491d3e3020",
+    "MAP.IO": "8d7cc1c2ee3ef9453b106b391da359eb47f1eb2ded1cd84895dfaafb135d7f31",
+    "MARCHAND.IO": "8c6ffa3d515e22f8eb9deddaca29c9557349ecd932c1e2087929e151d1ec0b01",
+    "MESSAGED.IO": "3ac92e22639617049b97285184d701ce542a09ee0dfb3992bf70914d3b73e458",
+    "PRESENT.IO": "2716dd8e20bb9d5f0c7c5182523517a2a026737e815ba9b0b9049b2c532c7bce",
+    "TABLEAU.IO": "1c8766a6cc5774c00759ec6a38d4b1b054ef5072ebf853026db6298d4021bbb1",
+    "TAVERNE.IO": "0e5aa81739d3f43acd19b5fca352f471df6e12a592bb9c8684d55e62aeab5f84",
+    "TEXTIND.IO": "2b5733723d6e6a0312df948717419542ac44fc631f9f5d9bc1263a4b8592f523"
+  }
+}

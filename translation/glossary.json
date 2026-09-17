@@ -1,0 +1,1977 @@
+{
+  "format": 1,
+  "entries": [
+    {
+      "id": "term.001",
+      "cs": "Ishar",
+      "forms": [
+        "Ishar",
+        "Isharu"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "message.000314",
+        "textin.017",
+        "textin.026",
+        "textin.039",
+        "intro.01",
+        "intro.07"
+      ]
+    },
+    {
+      "id": "term.002",
+      "cs": "Arborea",
+      "forms": [
+        "Arborea",
+        "Arborey",
+        "Arboree",
+        "Arboreu"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.017",
+        "textin.024",
+        "textin.028",
+        "intro.02",
+        "intro.04"
+      ]
+    },
+    {
+      "id": "term.003",
+      "cs": "Kendoria",
+      "forms": [
+        "Kendoria",
+        "Kendorii",
+        "Kendorie"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "intro.06"
+      ]
+    },
+    {
+      "id": "term.004",
+      "cs": "Kendor",
+      "forms": [
+        "Kendor"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.006"
+      ]
+    },
+    {
+      "id": "term.005",
+      "cs": "Shandar",
+      "forms": [
+        "Shandar",
+        "Shandara",
+        "Shandarovi",
+        "Shandarova",
+        "Shandarovu",
+        "Shandarovy",
+        "Shandarovou",
+        "Shandare",
+        "Shandarově"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.006",
+        "textin.009",
+        "textin.023",
+        "textin.024",
+        "textin.027",
+        "textin.029",
+        "textin.040"
+      ]
+    },
+    {
+      "id": "term.006",
+      "cs": "Krogh",
+      "forms": [
+        "Krogh",
+        "Krogha",
+        "Kroghově"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.024"
+      ]
+    },
+    {
+      "id": "term.007",
+      "cs": "Zubaran",
+      "forms": [
+        "Zubaran",
+        "Zubarane"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "intro.01"
+      ]
+    },
+    {
+      "id": "term.008",
+      "cs": "Jon",
+      "forms": [
+        "Jon",
+        "Jona",
+        "Jonův",
+        "Jonově",
+        "Jonova"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.015",
+        "textin.021",
+        "intro.02",
+        "shared.GERDEP.IO:001A09"
+      ]
+    },
+    {
+      "id": "term.009",
+      "cs": "Jarel",
+      "forms": [
+        "Jarel"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.021"
+      ]
+    },
+    {
+      "id": "term.010",
+      "cs": "Olbar",
+      "forms": [
+        "Olbar",
+        "Olbarův",
+        "Olbara"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.020",
+        "textin.021",
+        "shared.GERDEP.IO:001A55"
+      ]
+    },
+    {
+      "id": "term.011",
+      "cs": "Zeldy",
+      "forms": [
+        "Zeldy"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.007",
+        "textin.022",
+        "textin.037"
+      ]
+    },
+    {
+      "id": "term.012",
+      "cs": "Grimz",
+      "forms": [
+        "Grimz",
+        "Grimze",
+        "Grimzovy"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.027",
+        "textin.028",
+        "textin.029"
+      ]
+    },
+    {
+      "id": "term.013",
+      "cs": "Griml",
+      "forms": [
+        "Griml",
+        "Grimla"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.027",
+        "textin.028",
+        "textin.029"
+      ]
+    },
+    {
+      "id": "term.014",
+      "cs": "Gordbnoeuf",
+      "forms": [
+        "Gordbnoeuf",
+        "Gordbnoeufovi"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.000",
+        "textin.001"
+      ]
+    },
+    {
+      "id": "term.015",
+      "cs": "Colombine",
+      "forms": [
+        "Colombine",
+        "Colombinin",
+        "Colombiny"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.004"
+      ]
+    },
+    {
+      "id": "term.016",
+      "cs": "Pogo",
+      "forms": [
+        "Pogo"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.035"
+      ]
+    },
+    {
+      "id": "term.017",
+      "cs": "Caesar",
+      "forms": [
+        "Caesar"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.032"
+      ]
+    },
+    {
+      "id": "term.018",
+      "cs": "Silmarils",
+      "forms": [
+        "Silmarils"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.017"
+      ]
+    },
+    {
+      "id": "term.019",
+      "cs": "Irvan",
+      "forms": [
+        "Irvan",
+        "Irvanův"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "shared.GERDEP.IO:001995"
+      ]
+    },
+    {
+      "id": "term.020",
+      "cs": "Thorm",
+      "forms": [
+        "Thorm",
+        "Thormův"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "shared.GERDEP.IO:0019BC"
+      ]
+    },
+    {
+      "id": "term.021",
+      "cs": "Zach",
+      "forms": [
+        "Zach",
+        "Zachův",
+        "Zachova",
+        "Zachově"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.007",
+        "textin.009",
+        "textin.025",
+        "shared.GERDEP.IO:0019E3"
+      ]
+    },
+    {
+      "id": "term.022",
+      "cs": "Akeer",
+      "forms": [
+        "Akeer",
+        "Akeerův",
+        "Akeerova"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.014",
+        "shared.GERDEP.IO:001A2E"
+      ]
+    },
+    {
+      "id": "term.023",
+      "cs": "Schloumz",
+      "forms": [
+        "Schloumz"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.015"
+      ]
+    },
+    {
+      "id": "term.024",
+      "cs": "Ghoslam",
+      "forms": [
+        "Ghoslam"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.015"
+      ]
+    },
+    {
+      "id": "term.025",
+      "cs": "Clopatos",
+      "forms": [
+        "Clopatos"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.015"
+      ]
+    },
+    {
+      "id": "term.026",
+      "cs": "Bulkal",
+      "forms": [
+        "Bulkal"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.016"
+      ]
+    },
+    {
+      "id": "term.027",
+      "cs": "Mildong",
+      "forms": [
+        "Mildong"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.016"
+      ]
+    },
+    {
+      "id": "term.028",
+      "cs": "Jablou",
+      "forms": [
+        "Jablou"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.016"
+      ]
+    },
+    {
+      "id": "term.029",
+      "cs": "Humbolg",
+      "forms": [
+        "Humbolg"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.016"
+      ]
+    },
+    {
+      "id": "term.030",
+      "cs": "beholdel",
+      "forms": [
+        "beholdel",
+        "beholdela"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.047"
+      ]
+    },
+    {
+      "id": "term.031",
+      "cs": "Dwilgelindildong",
+      "forms": [
+        "Dwilgelindildong"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "message.00150B",
+        "message.00156C",
+        "intro.00"
+      ]
+    },
+    {
+      "id": "term.032",
+      "cs": "Dwingdingdongdong",
+      "forms": [
+        "Dwingdingdongdong"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "message.00152B"
+      ]
+    },
+    {
+      "id": "term.033",
+      "cs": "Dwigdelonlonlong",
+      "forms": [
+        "Dwigdelonlonlong"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "message.0010C3"
+      ]
+    },
+    {
+      "id": "term.034",
+      "cs": "Vřelou slzu",
+      "forms": [
+        "Vřelou slzu"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001325",
+        "message.001611",
+        "textin.001",
+        "textin.003",
+        "textin.008",
+        "textin.031",
+        "textin.057",
+        "intro.00"
+      ]
+    },
+    {
+      "id": "term.035",
+      "cs": "Hořké slzy",
+      "forms": [
+        "Hořké slzy"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.020"
+      ]
+    },
+    {
+      "id": "term.036",
+      "cs": "Čtyři věže",
+      "forms": [
+        "Čtyři věže",
+        "Čtyř věží"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.030"
+      ]
+    },
+    {
+      "id": "term.037",
+      "cs": "Blue Velvet",
+      "forms": [
+        "Blue Velvet",
+        "Blue Velvetu"
+      ],
+      "policy": "keep",
+      "status": "ready",
+      "units": [
+        "textin.034"
+      ]
+    },
+    {
+      "id": "term.038",
+      "cs": "Poslové zkázy",
+      "forms": [
+        "Poslové zkázy",
+        "Poslové",
+        "Poslů zkázy"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.017",
+        "textin.030",
+        "textin.039"
+      ]
+    },
+    {
+      "id": "term.039",
+      "cs": "velitel",
+      "forms": [
+        "velitel",
+        "velitele",
+        "veliteli",
+        "velitelem",
+        "velitelův"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0019DB",
+        "textin.007",
+        "textin.008",
+        "textin.009"
+      ]
+    },
+    {
+      "id": "term.040",
+      "cs": "velekněz Chaosu",
+      "forms": [
+        "velekněz Chaosu",
+        "veleknězi Chaosu"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.023"
+      ]
+    },
+    {
+      "id": "term.041",
+      "cs": "myrmidoni",
+      "forms": [
+        "myrmidoni"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.006"
+      ]
+    },
+    {
+      "id": "term.042",
+      "cs": "Severní země",
+      "forms": [
+        "Severní země",
+        "Severních zemí"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.024"
+      ]
+    },
+    {
+      "id": "term.043",
+      "cs": "BoI",
+      "forms": [
+        "BoI"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.059"
+      ]
+    },
+    {
+      "id": "term.044",
+      "cs": "síla",
+      "forms": [
+        "síla"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0005EE",
+        "message.000843"
+      ]
+    },
+    {
+      "id": "term.045",
+      "cs": "odolnost",
+      "forms": [
+        "odolnost"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00060F",
+        "message.000863"
+      ]
+    },
+    {
+      "id": "term.046",
+      "cs": "obratnost",
+      "forms": [
+        "obratnost"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.000630",
+        "message.000882"
+      ]
+    },
+    {
+      "id": "term.047",
+      "cs": "inteligence",
+      "forms": [
+        "inteligence"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.000651",
+        "message.0008A1"
+      ]
+    },
+    {
+      "id": "term.048",
+      "cs": "moudrost",
+      "forms": [
+        "moudrost"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.000672"
+      ]
+    },
+    {
+      "id": "term.049",
+      "cs": "životy",
+      "forms": [
+        "životy"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00054D"
+      ]
+    },
+    {
+      "id": "term.050",
+      "cs": "tělesná energie",
+      "forms": [
+        "tělesná energie",
+        "kondice",
+        "tělesné energie",
+        "tělesná obnova"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00056B",
+        "textin.015"
+      ]
+    },
+    {
+      "id": "term.051",
+      "cs": "duševní energie",
+      "forms": [
+        "duševní energie",
+        "psychika",
+        "duševní obnova"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.000589",
+        "textin.015"
+      ]
+    },
+    {
+      "id": "term.052",
+      "cs": "soudržnost",
+      "forms": [
+        "soudržnost"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0005A7"
+      ]
+    },
+    {
+      "id": "term.053",
+      "cs": "zkušenosti",
+      "forms": [
+        "zkušenosti"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00052F"
+      ]
+    },
+    {
+      "id": "term.054",
+      "cs": "úroveň",
+      "forms": [
+        "úroveň"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.000510",
+        "message.000824"
+      ]
+    },
+    {
+      "id": "term.055",
+      "cs": "první pomoc",
+      "forms": [
+        "první pomoc"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00070A"
+      ]
+    },
+    {
+      "id": "term.056",
+      "cs": "páčení zámků",
+      "forms": [
+        "páčení zámků"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0006B2"
+      ]
+    },
+    {
+      "id": "term.057",
+      "cs": "vnímání",
+      "forms": [
+        "vnímání"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0006DE"
+      ]
+    },
+    {
+      "id": "term.058",
+      "cs": "náhrdelník",
+      "forms": [
+        "náhrdelník",
+        "náhrdelníku"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001994",
+        "textin.002",
+        "textin.034"
+      ]
+    },
+    {
+      "id": "term.059",
+      "cs": "přívěsek",
+      "forms": [
+        "přívěsek",
+        "přívěsku"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00114F",
+        "message.001AD8",
+        "textin.006"
+      ]
+    },
+    {
+      "id": "term.060",
+      "cs": "modla",
+      "forms": [
+        "modla",
+        "modlu",
+        "modle"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0019CD",
+        "textin.010",
+        "textin.011",
+        "textin.032"
+      ]
+    },
+    {
+      "id": "term.061",
+      "cs": "relikvie",
+      "forms": [
+        "relikvie"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001985"
+      ]
+    },
+    {
+      "id": "term.062",
+      "cs": "mlokový olej",
+      "forms": [
+        "mlokový olej"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001B2E",
+        "textin.077"
+      ]
+    },
+    {
+      "id": "term.063",
+      "cs": "bílé houby",
+      "forms": [
+        "bílé houby"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001B15",
+        "textin.038",
+        "textin.076"
+      ]
+    },
+    {
+      "id": "term.064",
+      "cs": "štít Chaosu",
+      "forms": [
+        "štít Chaosu"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.072"
+      ]
+    },
+    {
+      "id": "term.065",
+      "cs": "zl",
+      "forms": [
+        "zl",
+        "zlatých"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001325",
+        "textin.013",
+        "textin.044",
+        "textin.050"
+      ]
+    },
+    {
+      "id": "term.066",
+      "cs": "ostrov",
+      "forms": [
+        "ostrov",
+        "ostrova",
+        "ostrově",
+        "ostrovy",
+        "ostrovech"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.007",
+        "textin.009",
+        "textin.014",
+        "textin.020",
+        "textin.025",
+        "textin.028",
+        "shared.GERDEP.IO:001995",
+        "shared.GERDEP.IO:0019BC",
+        "shared.GERDEP.IO:0019E3",
+        "shared.GERDEP.IO:001A09",
+        "shared.GERDEP.IO:001A2E",
+        "shared.GERDEP.IO:001A55"
+      ]
+    },
+    {
+      "id": "term.067",
+      "cs": "tvrz",
+      "forms": [
+        "tvrz",
+        "tvrze",
+        "tvrzi"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.017",
+        "textin.026",
+        "textin.029",
+        "intro.07"
+      ]
+    },
+    {
+      "id": "term.068",
+      "cs": "chrám",
+      "forms": [
+        "chrám",
+        "chrámu"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.032"
+      ]
+    },
+    {
+      "id": "term.069",
+      "cs": "Chaos",
+      "forms": [
+        "Chaos",
+        "Chaosu"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001EA3",
+        "textin.023",
+        "textin.024",
+        "textin.072",
+        "textin.088",
+        "textin.097",
+        "textin.118"
+      ]
+    },
+    {
+      "id": "term.070",
+      "cs": "potulný rytíř",
+      "forms": [
+        "potulný rytíř",
+        "rytíř"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00201A",
+        "shared.TABLEAU.IO:001E3C"
+      ]
+    },
+    {
+      "id": "term.071",
+      "cs": "válečník",
+      "forms": [
+        "válečník"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.002031",
+        "shared.TABLEAU.IO:001E4C"
+      ]
+    },
+    {
+      "id": "term.072",
+      "cs": "hraničář",
+      "forms": [
+        "hraničář",
+        "hran."
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.002042",
+        "shared.TABLEAU.IO:001E5D"
+      ]
+    },
+    {
+      "id": "term.073",
+      "cs": "barbar",
+      "forms": [
+        "barbar"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.002052",
+        "shared.TABLEAU.IO:001E6C"
+      ]
+    },
+    {
+      "id": "term.074",
+      "cs": "zloděj",
+      "forms": [
+        "zloděj",
+        "zlod."
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.002065",
+        "shared.TABLEAU.IO:001E7C"
+      ]
+    },
+    {
+      "id": "term.075",
+      "cs": "učenec",
+      "forms": [
+        "učenec",
+        "učen."
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.002074",
+        "shared.TABLEAU.IO:001E8B"
+      ]
+    },
+    {
+      "id": "term.076",
+      "cs": "mág",
+      "forms": [
+        "mág",
+        "mága"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.002085",
+        "textin.041",
+        "shared.TABLEAU.IO:001E99"
+      ]
+    },
+    {
+      "id": "term.077",
+      "cs": "lučištník",
+      "forms": [
+        "lučištník",
+        "lučiš."
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.002097",
+        "shared.TABLEAU.IO:001EAA"
+      ]
+    },
+    {
+      "id": "term.078",
+      "cs": "špeh",
+      "forms": [
+        "špeh"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0020A7",
+        "shared.TABLEAU.IO:001EB9"
+      ]
+    },
+    {
+      "id": "term.079",
+      "cs": "kněz",
+      "forms": [
+        "kněz",
+        "kněze",
+        "veleknězi"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0020B4",
+        "textin.016",
+        "textin.023",
+        "shared.TABLEAU.IO:001EC8"
+      ]
+    },
+    {
+      "id": "term.080",
+      "cs": "žoldnéř",
+      "forms": [
+        "žoldnéř",
+        "žoldnéři",
+        "žoldnéřů"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0020C4",
+        "textin.021",
+        "shared.TABLEAU.IO:001ED7"
+      ]
+    },
+    {
+      "id": "term.081",
+      "cs": "žebrák",
+      "forms": [
+        "žebrák"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0020D7",
+        "shared.TABLEAU.IO:001EEA"
+      ]
+    },
+    {
+      "id": "term.082",
+      "cs": "vrah",
+      "forms": [
+        "vrah"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0020E7",
+        "shared.TABLEAU.IO:001EFB"
+      ]
+    },
+    {
+      "id": "term.083",
+      "cs": "kněžka",
+      "forms": [
+        "kněžka"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0020F9",
+        "shared.TABLEAU.IO:001F0C"
+      ]
+    },
+    {
+      "id": "term.084",
+      "cs": "hypnotizér",
+      "forms": [
+        "hypnotizér"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00210C",
+        "shared.TABLEAU.IO:001F33"
+      ]
+    },
+    {
+      "id": "term.085",
+      "cs": "čarodějnice",
+      "forms": [
+        "čarodějnice",
+        "čar."
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00211F",
+        "shared.TABLEAU.IO:001F47"
+      ]
+    },
+    {
+      "id": "term.086",
+      "cs": "temný rytíř",
+      "forms": [
+        "temný rytíř"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00212E",
+        "shared.TABLEAU.IO:001F58"
+      ]
+    },
+    {
+      "id": "term.087",
+      "cs": "okultní mnich",
+      "forms": [
+        "okultní mnich",
+        "okult. mnich"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.002143",
+        "shared.TABLEAU.IO:001F6C"
+      ]
+    },
+    {
+      "id": "term.088",
+      "cs": "druid",
+      "forms": [
+        "druid",
+        "druidi",
+        "druidové"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.002158",
+        "textin.027"
+      ]
+    },
+    {
+      "id": "term.089",
+      "cs": "člověk",
+      "forms": [
+        "člověk"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001FA0",
+        "shared.TABLEAU.IO:001F96"
+      ]
+    },
+    {
+      "id": "term.090",
+      "cs": "elf",
+      "forms": [
+        "elf"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001FAF",
+        "shared.TABLEAU.IO:001FA5"
+      ]
+    },
+    {
+      "id": "term.091",
+      "cs": "trpaslík",
+      "forms": [
+        "trpaslík",
+        "trp."
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001FBC",
+        "shared.TABLEAU.IO:001FB2"
+      ]
+    },
+    {
+      "id": "term.092",
+      "cs": "ork",
+      "forms": [
+        "ork"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001FCB",
+        "shared.TABLEAU.IO:001FBF"
+      ]
+    },
+    {
+      "id": "term.093",
+      "cs": "ještěří muž",
+      "forms": [
+        "ještěří muž",
+        "ještěrák"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001FD8"
+      ]
+    },
+    {
+      "id": "term.094",
+      "cs": "kouzelný kotlík",
+      "forms": [
+        "kouzelný kotlík",
+        "kouz. kotlík"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0019A6"
+      ]
+    },
+    {
+      "id": "term.095",
+      "cs": "orel",
+      "forms": [
+        "orel",
+        "orla"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.00105C",
+        "message.0019BE",
+        "textin.062"
+      ]
+    },
+    {
+      "id": "term.096",
+      "cs": "pavián",
+      "forms": [
+        "pavián"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001A21",
+        "textin.063"
+      ]
+    },
+    {
+      "id": "term.097",
+      "cs": "straka",
+      "forms": [
+        "straka"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001A31",
+        "textin.064"
+      ]
+    },
+    {
+      "id": "term.098",
+      "cs": "papoušek",
+      "forms": [
+        "papoušek"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001A41",
+        "textin.065"
+      ]
+    },
+    {
+      "id": "term.099",
+      "cs": "myš",
+      "forms": [
+        "myš"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001A51",
+        "textin.066"
+      ]
+    },
+    {
+      "id": "term.100",
+      "cs": "rostlina",
+      "forms": [
+        "rostlina"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001A60",
+        "textin.067"
+      ]
+    },
+    {
+      "id": "term.101",
+      "cs": "štít",
+      "forms": [
+        "štít"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0011AC",
+        "message.001A6F",
+        "message.001A84",
+        "message.001A99",
+        "message.001AAE",
+        "message.001AC3",
+        "textin.068",
+        "textin.069",
+        "textin.070",
+        "textin.071",
+        "textin.072"
+      ]
+    },
+    {
+      "id": "term.102",
+      "cs": "lano",
+      "forms": [
+        "lano",
+        "lana"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001AE9",
+        "textin.074"
+      ]
+    },
+    {
+      "id": "term.103",
+      "cs": "šípy",
+      "forms": [
+        "šípy"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001AF7",
+        "textin.073"
+      ]
+    },
+    {
+      "id": "term.104",
+      "cs": "jídlo",
+      "forms": [
+        "jídlo"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001B07",
+        "textin.075"
+      ]
+    },
+    {
+      "id": "term.105",
+      "cs": "pavučina",
+      "forms": [
+        "pavučina"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001B49",
+        "textin.078"
+      ]
+    },
+    {
+      "id": "term.106",
+      "cs": "sušené jmelí",
+      "forms": [
+        "sušené jmelí"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001B5F",
+        "textin.079"
+      ]
+    },
+    {
+      "id": "term.107",
+      "cs": "krysí mozek",
+      "forms": [
+        "krysí mozek"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001B78",
+        "textin.080"
+      ]
+    },
+    {
+      "id": "term.108",
+      "cs": "chrlič",
+      "forms": [
+        "chrlič",
+        "chrliče"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001B8D",
+        "textin.046",
+        "textin.081"
+      ]
+    },
+    {
+      "id": "term.109",
+      "cs": "drápy chrliče",
+      "forms": [
+        "drápy chrliče"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001B8D",
+        "textin.081"
+      ]
+    },
+    {
+      "id": "term.110",
+      "cs": "černé houby",
+      "forms": [
+        "černé houby"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001BA5",
+        "textin.082"
+      ]
+    },
+    {
+      "id": "term.111",
+      "cs": "protěž",
+      "forms": [
+        "protěž"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001BBE"
+      ]
+    },
+    {
+      "id": "term.112",
+      "cs": "svazek pampelišek",
+      "forms": [
+        "svazek pampelišek",
+        "pampelišky"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001BD1"
+      ]
+    },
+    {
+      "id": "term.113",
+      "cs": "zbroj",
+      "forms": [
+        "zbroj"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001BED",
+        "message.001C23",
+        "message.001C38",
+        "message.001C4D",
+        "message.001C62",
+        "message.001C8F",
+        "message.001CA4",
+        "textin.083",
+        "textin.085",
+        "textin.086",
+        "textin.087",
+        "textin.088",
+        "textin.090",
+        "textin.091"
+      ]
+    },
+    {
+      "id": "term.114",
+      "cs": "kroužková košile",
+      "forms": [
+        "kroužková košile",
+        "kroužkovka",
+        "kroužk."
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001C02",
+        "textin.084"
+      ]
+    },
+    {
+      "id": "term.115",
+      "cs": "večerní tunika",
+      "forms": [
+        "večerní tunika",
+        "večer. tunika"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001C78",
+        "textin.089"
+      ]
+    },
+    {
+      "id": "term.116",
+      "cs": "kožich",
+      "forms": [
+        "kožich"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001CB9",
+        "textin.092"
+      ]
+    },
+    {
+      "id": "term.117",
+      "cs": "kutna",
+      "forms": [
+        "kutna"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001CCB",
+        "textin.093"
+      ]
+    },
+    {
+      "id": "term.118",
+      "cs": "přilba",
+      "forms": [
+        "přilba",
+        "přil."
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001CDD",
+        "message.001CF2",
+        "message.001D07",
+        "message.001D1C",
+        "textin.094",
+        "textin.095",
+        "textin.096",
+        "textin.097"
+      ]
+    },
+    {
+      "id": "term.119",
+      "cs": "vrhací dýka",
+      "forms": [
+        "vrhací dýka",
+        "vrh. dýka"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001D31",
+        "textin.098"
+      ]
+    },
+    {
+      "id": "term.120",
+      "cs": "kopí",
+      "forms": [
+        "kopí"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001D4F",
+        "textin.099"
+      ]
+    },
+    {
+      "id": "term.121",
+      "cs": "šavle",
+      "forms": [
+        "šavle"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001D63",
+        "textin.100"
+      ]
+    },
+    {
+      "id": "term.122",
+      "cs": "dýka",
+      "forms": [
+        "dýka"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001D31",
+        "message.001D77",
+        "message.001D8C",
+        "message.001F52",
+        "textin.098",
+        "textin.101",
+        "textin.102",
+        "textin.121"
+      ]
+    },
+    {
+      "id": "term.123",
+      "cs": "sekera",
+      "forms": [
+        "sekera"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001DA1",
+        "message.001F16",
+        "textin.103",
+        "textin.118"
+      ]
+    },
+    {
+      "id": "term.124",
+      "cs": "kuše",
+      "forms": [
+        "kuše"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001DBA",
+        "textin.104"
+      ]
+    },
+    {
+      "id": "term.125",
+      "cs": "luk",
+      "forms": [
+        "luk"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.105",
+        "textin.112"
+      ]
+    },
+    {
+      "id": "term.126",
+      "cs": "řemdih",
+      "forms": [
+        "řemdih"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001DE3",
+        "message.001F02",
+        "textin.106",
+        "textin.117"
+      ]
+    },
+    {
+      "id": "term.127",
+      "cs": "palcát",
+      "forms": [
+        "palcát"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001DF7",
+        "textin.107"
+      ]
+    },
+    {
+      "id": "term.128",
+      "cs": "meč",
+      "forms": [
+        "meč"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001E0B",
+        "message.001E20",
+        "message.001E35",
+        "message.001E49",
+        "message.001E87",
+        "message.001EA3",
+        "message.001EC5",
+        "textin.108",
+        "textin.109",
+        "textin.110",
+        "textin.111",
+        "textin.114"
+      ]
+    },
+    {
+      "id": "term.129",
+      "cs": "kostěný luk",
+      "forms": [
+        "kostěný luk"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001E5D",
+        "textin.112"
+      ]
+    },
+    {
+      "id": "term.130",
+      "cs": "kyj",
+      "forms": [
+        "kyj"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001E74",
+        "textin.113"
+      ]
+    },
+    {
+      "id": "term.131",
+      "cs": "živý meč",
+      "forms": [
+        "živý meč"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001E87"
+      ]
+    },
+    {
+      "id": "term.132",
+      "cs": "živý meč Chaosu",
+      "forms": [
+        "živý meč Chaosu"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001EA3"
+      ]
+    },
+    {
+      "id": "term.133",
+      "cs": "hůl",
+      "forms": [
+        "hůl"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001EDA",
+        "message.001EEE",
+        "textin.115"
+      ]
+    },
+    {
+      "id": "term.134",
+      "cs": "hůlka",
+      "forms": [
+        "hůlka"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.116"
+      ]
+    },
+    {
+      "id": "term.135",
+      "cs": "trojzubec",
+      "forms": [
+        "trojzubec",
+        "trojzub."
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001F29",
+        "textin.119"
+      ]
+    },
+    {
+      "id": "term.136",
+      "cs": "bič",
+      "forms": [
+        "bič"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001F3F",
+        "textin.120"
+      ]
+    },
+    {
+      "id": "term.137",
+      "cs": "klíč od vězení",
+      "forms": [
+        "klíč od vězení"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.0019FF"
+      ]
+    },
+    {
+      "id": "term.138",
+      "cs": "roh",
+      "forms": [
+        "roh"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "message.001A13"
+      ]
+    },
+    {
+      "id": "term.139",
+      "cs": "Pán živlu",
+      "forms": [
+        "Pán živlu",
+        "Pána živlu"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.010"
+      ]
+    },
+    {
+      "id": "term.140",
+      "cs": "Dvojnásobný vklad",
+      "forms": [
+        "Dvojnásobný vklad"
+      ],
+      "policy": "translate",
+      "status": "ready",
+      "units": [
+        "textin.059"
+      ]
+    }
+  ]
+}

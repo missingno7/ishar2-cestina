@@ -1,0 +1,15 @@
+name: Public sources
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit public files
+        run: python3 -B tools/audit_public.py
+      - name: Validate Czech sources
+        run: python3 -B tools/project.py check
+      - name: Test without game assets
+        run: python3 -B -m unittest discover -s tests -v

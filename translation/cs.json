@@ -1,0 +1,4799 @@
+{
+  "format": 1,
+  "units": [
+    {
+      "id": "message.0002D4",
+      "cs": "Disketa je plná.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0002D4",
+          "cs": "Disketa je plná."
+        }
+      ]
+    },
+    {
+      "id": "message.0002F3",
+      "cs": "Operace zrušena.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0002F5",
+          "cs": "Operace zrušena."
+        }
+      ]
+    },
+    {
+      "id": "message.000314",
+      "cs": "Soubor není ve formátu hry Ishar I.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000316",
+          "cs": "Soubor není z Isharu 1."
+        }
+      ]
+    },
+    {
+      "id": "message.00033E",
+      "cs": "Soubor nenalezen.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00033E",
+          "cs": "Soubor nenalezen."
+        }
+      ]
+    },
+    {
+      "id": "message.00035A",
+      "cs": "Vložte disketu s uloženou hrou.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00035F",
+          "cs": "Vložte disketu"
+        }
+      ]
+    },
+    {
+      "id": "message.000382",
+      "cs": "Zadejte název přenášeného souboru.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00037F",
+          "cs": "Zadejte název přenášeného souboru."
+        }
+      ]
+    },
+    {
+      "id": "message.0003BE",
+      "cs": "Vložte již naformátovanou disketu pro uložení hry do mechaniky A, DF0 nebo B a stiskněte Enter.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0003B3",
+          "cs": "Vložte formátovanou disketu"
+        },
+        {
+          "id": "MESSAGED.IO:0003D8",
+          "cs": "pro uložení"
+        },
+        {
+          "id": "MESSAGED.IO:000407",
+          "cs": "do A"
+        },
+        {
+          "id": "MESSAGED.IO:00041F",
+          "cs": "do DF0"
+        },
+        {
+          "id": "MESSAGED.IO:00043B",
+          "cs": "do B"
+        },
+        {
+          "id": "MESSAGED.IO:00044F",
+          "cs": "a stiskněte Enter."
+        }
+      ]
+    },
+    {
+      "id": "message.000478",
+      "cs": "Čekejte...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000470",
+          "cs": "Čekejte..."
+        }
+      ]
+    },
+    {
+      "id": "message.000494",
+      "cs": "Znovu vložte herní disketu.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00048A",
+          "cs": "Vložte znovu herní disketu"
+        },
+        {
+          "id": "MESSAGED.IO:0004CB",
+          "cs": "do mechaniky A"
+        },
+        {
+          "id": "MESSAGED.IO:0004E8",
+          "cs": "do mechaniky DF0"
+        },
+        {
+          "id": "MESSAGED.IO:000509",
+          "cs": "do mechaniky B"
+        },
+        {
+          "id": "MESSAGED.IO:000522",
+          "cs": "a stiskněte Enter."
+        }
+      ]
+    },
+    {
+      "id": "message.000510",
+      "cs": "Úroveň:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000592",
+          "cs": "Úroveň:"
+        }
+      ]
+    },
+    {
+      "id": "message.00052F",
+      "cs": "Zkušenosti:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0005B0",
+          "cs": "Zkušenosti:"
+        }
+      ]
+    },
+    {
+      "id": "message.00054D",
+      "cs": "Životy:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0005CD",
+          "cs": "Životy:"
+        }
+      ]
+    },
+    {
+      "id": "message.00056B",
+      "cs": "Tělesná energie:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0005EA",
+          "cs": "Kondice:"
+        }
+      ]
+    },
+    {
+      "id": "message.000589",
+      "cs": "Duševní energie:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000607",
+          "cs": "Psychika:"
+        }
+      ]
+    },
+    {
+      "id": "message.0005A7",
+      "cs": "Soudržnost:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000624",
+          "cs": "Soudržnost:"
+        }
+      ]
+    },
+    {
+      "id": "message.0005CA",
+      "cs": "Vlastnosti:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000646",
+          "cs": "Vlastnosti:"
+        }
+      ]
+    },
+    {
+      "id": "message.0005EE",
+      "cs": "Síla:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000668",
+          "cs": "Síla:"
+        }
+      ]
+    },
+    {
+      "id": "message.00060F",
+      "cs": "Odolnost:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000689",
+          "cs": "Odolnost:"
+        }
+      ]
+    },
+    {
+      "id": "message.000630",
+      "cs": "Obratnost:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0006AA",
+          "cs": "Obratnost:"
+        }
+      ]
+    },
+    {
+      "id": "message.000651",
+      "cs": "Inteligence:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0006CB",
+          "cs": "Inteligence:"
+        }
+      ]
+    },
+    {
+      "id": "message.000672",
+      "cs": "Moudrost:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0006EC",
+          "cs": "Moudrost:"
+        }
+      ]
+    },
+    {
+      "id": "message.000697",
+      "cs": "Dovednosti:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000711",
+          "cs": "Dovednosti:"
+        }
+      ]
+    },
+    {
+      "id": "message.0006B2",
+      "cs": "Páčení zámků:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000731",
+          "cs": "Páčení zámků:"
+        }
+      ]
+    },
+    {
+      "id": "message.0006DE",
+      "cs": "Vnímání:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00075E",
+          "cs": "Vnímání:"
+        }
+      ]
+    },
+    {
+      "id": "message.00070A",
+      "cs": "První pomoc:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00078B",
+          "cs": "První pomoc:"
+        }
+      ]
+    },
+    {
+      "id": "message.000736",
+      "cs": "Zbraně pro 1 ruku:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0007B8",
+          "cs": "Zbraně pro 1 ruku:"
+        }
+      ]
+    },
+    {
+      "id": "message.000762",
+      "cs": "Zbraně pro 2 ruce:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0007E5",
+          "cs": "Zbraně pro 2 ruce:"
+        }
+      ]
+    },
+    {
+      "id": "message.00078D",
+      "cs": "Vrhací zbraně:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000811",
+          "cs": "Vrhací zbraně:"
+        }
+      ]
+    },
+    {
+      "id": "message.0007B8",
+      "cs": "Střelba:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00083D",
+          "cs": "Střelba:"
+        }
+      ]
+    },
+    {
+      "id": "message.000824",
+      "cs": "Úroveň:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0008AA",
+          "cs": "Úroveň:"
+        }
+      ]
+    },
+    {
+      "id": "message.000843",
+      "cs": "Síla:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0008CA",
+          "cs": "Síla:"
+        }
+      ]
+    },
+    {
+      "id": "message.000863",
+      "cs": "Odolnost:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0008EA",
+          "cs": "Odolnost:"
+        }
+      ]
+    },
+    {
+      "id": "message.000882",
+      "cs": "Obratnost:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00090A",
+          "cs": "Obratnost:"
+        }
+      ]
+    },
+    {
+      "id": "message.0008A1",
+      "cs": "Inteligence:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00092A",
+          "cs": "Inteligence:"
+        }
+      ]
+    },
+    {
+      "id": "message.0008C5",
+      "cs": "Hlasování družiny:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00094F",
+          "cs": "Hlas družiny:"
+        }
+      ]
+    },
+    {
+      "id": "message.0008F2",
+      "cs": ": pro",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00097E",
+          "cs": ": pro"
+        }
+      ]
+    },
+    {
+      "id": "message.000919",
+      "cs": ": neutrální",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0009A7",
+          "cs": ": neutrál"
+        }
+      ]
+    },
+    {
+      "id": "message.000944",
+      "cs": ": proti",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0009D2",
+          "cs": ": proti"
+        }
+      ]
+    },
+    {
+      "id": "message.000963",
+      "cs": "Člen přijat.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0009F1",
+          "cs": "Člen přijat."
+        }
+      ]
+    },
+    {
+      "id": "message.000988",
+      "cs": "Osoba odmítnuta.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000A1B",
+          "cs": "Osoba odmítnuta."
+        }
+      ]
+    },
+    {
+      "id": "message.0009AE",
+      "cs": "Družina je plná",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000A45",
+          "cs": "Družina je plná"
+        }
+      ]
+    },
+    {
+      "id": "message.0009D1",
+      "cs": "Vyloučení schváleno.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000A6A",
+          "cs": "Schváleno"
+        }
+      ]
+    },
+    {
+      "id": "message.0009F8",
+      "cs": "Vyloučení odmítnuto.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000A89",
+          "cs": "Neprošlo"
+        }
+      ]
+    },
+    {
+      "id": "message.000AC7",
+      "cs": "Dal bych si salát...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000B59",
+          "cs": "Dal bych si salát..."
+        }
+      ]
+    },
+    {
+      "id": "message.000AEC",
+      "cs": "Á, civilizace už není daleko...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000B87",
+          "cs": "Á, civilizace už není daleko..."
+        }
+      ]
+    },
+    {
+      "id": "message.000B1D",
+      "cs": "... Slyším hlasy!?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000BB4",
+          "cs": "... Slyším hlasy!?"
+        }
+      ]
+    },
+    {
+      "id": "message.000B43",
+      "cs": "Čmuch, čmuch. Tady to nevoní...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000BD4",
+          "cs": "Čmuch, čmuch. Tady to nevoní..."
+        }
+      ]
+    },
+    {
+      "id": "message.000B7B",
+      "cs": "Ehm... co zkusit jít doprava!?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000C07",
+          "cs": "Ehm... co zkusit jít doprava!?"
+        }
+      ]
+    },
+    {
+      "id": "message.000BA9",
+      "cs": "Mám úplně promočené nohy...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000C33",
+          "cs": "Mám úplně promočené nohy..."
+        }
+      ]
+    },
+    {
+      "id": "message.000BD1",
+      "cs": "Ucítil jsem jakýsi průvan...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000C5F",
+          "cs": "Ucítil jsem jakýsi průvan..."
+        }
+      ]
+    },
+    {
+      "id": "message.000BFA",
+      "cs": "Cítím tu jakousi zvláštní sílu...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000C91",
+          "cs": "Cítím tu jakousi zvláštní sílu..."
+        }
+      ]
+    },
+    {
+      "id": "message.000C2B",
+      "cs": "Ehm... kdo jde první?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000CC0",
+          "cs": "Kdo jde první?"
+        }
+      ]
+    },
+    {
+      "id": "message.000C52",
+      "cs": "Maminko! Motá se nám hlava!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000CE1",
+          "cs": "Maminko! Motá se nám hlava!"
+        }
+      ]
+    },
+    {
+      "id": "message.000C76",
+      "cs": "Dál už nejdeme!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000D08",
+          "cs": "Dál už nejdeme!"
+        }
+      ]
+    },
+    {
+      "id": "message.000CA0",
+      "cs": "Nejde to, cíl je příliš daleko.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000D38",
+          "cs": "Nejde to, cíl je příliš daleko."
+        }
+      ]
+    },
+    {
+      "id": "message.000CE8",
+      "cs": "Myslím, že je to tu očarované...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000D6A",
+          "cs": "Myslím, že je to tu očarované..."
+        }
+      ]
+    },
+    {
+      "id": "message.000D18",
+      "cs": "Vzduch je chladný.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000D9E",
+          "cs": "Vzduch je chladný."
+        }
+      ]
+    },
+    {
+      "id": "message.000D36",
+      "cs": "Jeden z nás je očarovaný...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000DBF",
+          "cs": "Jeden z nás je očarovaný..."
+        }
+      ]
+    },
+    {
+      "id": "message.000D6D",
+      "cs": "Dwiglongligli, vše je očištěno!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000DF3",
+          "cs": "Dwiglongligli, vše je očištěno!"
+        }
+      ]
+    },
+    {
+      "id": "message.000D9B",
+      "cs": "Ticho tam!!!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000E24",
+          "cs": "Ticho tam!!!"
+        }
+      ]
+    },
+    {
+      "id": "message.000DBB",
+      "cs": "Víte vůbec, kolik je hodin!?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000E4A",
+          "cs": "Víte vůbec, kolik je hodin!?"
+        }
+      ]
+    },
+    {
+      "id": "message.000E54",
+      "cs": "Při nedostatku volné operační paměti bude hra používat omezený zvuk. Pro optimální chod je třeba 000 bajtů paměti. Stiskněte libovolnou klávesu.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000EE6",
+          "cs": "Hra poběží s omezeným"
+        },
+        {
+          "id": "MESSAGED.IO:000F1D",
+          "cs": "zvukem, nebude-li dost volné"
+        },
+        {
+          "id": "MESSAGED.IO:000F52",
+          "cs": "operační paměti."
+        },
+        {
+          "id": "MESSAGED.IO:000F8D",
+          "cs": "kB je třeba pro plný"
+        },
+        {
+          "id": "MESSAGED.IO:000FB5",
+          "cs": "chod hry."
+        },
+        {
+          "id": "MESSAGED.IO:000FE5",
+          "cs": "Stiskněte"
+        },
+        {
+          "id": "MESSAGED.IO:001012",
+          "cs": "některou klávesu."
+        }
+      ]
+    },
+    {
+      "id": "message.000F77",
+      "cs": "Hru je nutné nainstalovat na pevný disk. Použijte příkaz INSTALL na disketě A. Stiskněte libovolnou klávesu.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001044",
+          "cs": "Hru nainstalujte na pevný disk."
+        },
+        {
+          "id": "MESSAGED.IO:00107A",
+          "cs": "Použijte příkaz z diskety:"
+        },
+        {
+          "id": "MESSAGED.IO:0010B2",
+          "cs": "INSTALL z A. Stiskněte klávesu"
+        }
+      ]
+    },
+    {
+      "id": "message.001028",
+      "cs": "Tady to je!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0010E5",
+          "cs": "Tady to je!"
+        }
+      ]
+    },
+    {
+      "id": "message.00105C",
+      "cs": "Vypusťte orla,",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001119",
+          "cs": "Vypusťte orla,"
+        }
+      ]
+    },
+    {
+      "id": "message.001078",
+      "cs": "vydá se na cestu za vás...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00113E",
+          "cs": "vydá se na cestu za vás..."
+        }
+      ]
+    },
+    {
+      "id": "message.0010A4",
+      "cs": "To je snad žert!?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00116C",
+          "cs": "To je snad žert!?"
+        }
+      ]
+    },
+    {
+      "id": "message.0010C3",
+      "cs": "5 Dwigdelonlonlong",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00118C",
+          "cs": "5 Dwigdelonlonlong"
+        }
+      ]
+    },
+    {
+      "id": "message.0010DF",
+      "cs": "5 sněžných kamenů uvítá smrt...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0011A8",
+          "cs": "5 sněžných kamenů uvítá smrt..."
+        }
+      ]
+    },
+    {
+      "id": "message.00110E",
+      "cs": "Rozkošné!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0011DD",
+          "cs": "Rozkošné"
+        }
+      ]
+    },
+    {
+      "id": "message.001126",
+      "cs": "Á! Konečně jste tady!...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0011F3",
+          "cs": "Á! Konečně jste tady!..."
+        }
+      ]
+    },
+    {
+      "id": "message.00114F",
+      "cs": "Vezměte ten přívěsek a nechte mě spát!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00121A",
+          "cs": "Vezměte ten přívěsek a nechte mě spát!"
+        }
+      ]
+    },
+    {
+      "id": "message.001181",
+      "cs": "Chvála mým slavným zachráncům!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001253",
+          "cs": "Chvála mým slavným zachráncům!"
+        }
+      ]
+    },
+    {
+      "id": "message.0011AC",
+      "cs": "Dejte mi štít... Ochrání",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001284",
+          "cs": "Dejte mi štít... Ochrání"
+        }
+      ]
+    },
+    {
+      "id": "message.0011DA",
+      "cs": "vás před dračím ohněm...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0012A7",
+          "cs": "vás před dračím ohněm..."
+        }
+      ]
+    },
+    {
+      "id": "message.001207",
+      "cs": "Rychle, bratři,",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0012E2",
+          "cs": "Rychle, bratři,"
+        }
+      ]
+    },
+    {
+      "id": "message.001221",
+      "cs": "zmeškáte konec...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0012FD",
+          "cs": "zmeškáte konec..."
+        }
+      ]
+    },
+    {
+      "id": "message.001245",
+      "cs": "Mé děti! Mé děti!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00132C",
+          "cs": "Mé děti! Mé děti!"
+        }
+      ]
+    },
+    {
+      "id": "message.001278",
+      "cs": "V celách jsou tajné chodby...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001361",
+          "cs": "V celách jsou tajné chodby..."
+        }
+      ]
+    },
+    {
+      "id": "message.0012AF",
+      "cs": "Cítím přátelskou přítomnost...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001395",
+          "cs": "Cítím přátelskou přítomnost..."
+        }
+      ]
+    },
+    {
+      "id": "message.0012D7",
+      "cs": "Odveďte mě zpátky k otci...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0013C4",
+          "cs": "Odveďte mě zpátky k otci..."
+        }
+      ]
+    },
+    {
+      "id": "message.001301",
+      "cs": "Kde je má dcera?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0013F1",
+          "cs": "Kde je má dcera?"
+        }
+      ]
+    },
+    {
+      "id": "message.001325",
+      "cs": "Vřelou slzu, má cena je 10.000 zl.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001415",
+          "cs": "Vřelou slzu, má cena je 10.000 zl."
+        }
+      ]
+    },
+    {
+      "id": "message.001362",
+      "cs": "Děkuji, hošíci. Přijímáte posily?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001458",
+          "cs": "Děkuji, hošíci. Přijímáte posily?"
+        }
+      ]
+    },
+    {
+      "id": "message.0013A6",
+      "cs": "Brrr! To je zima!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00149C",
+          "cs": "Brrr! To je zima!"
+        }
+      ]
+    },
+    {
+      "id": "message.0013D4",
+      "cs": "Tak dost, hoši!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0014CB",
+          "cs": "Tak dost, hoši!"
+        }
+      ]
+    },
+    {
+      "id": "message.0013F7",
+      "cs": "Už se začínám zlobit!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0014ED",
+          "cs": "Už se začínám zlobit!"
+        }
+      ]
+    },
+    {
+      "id": "message.001425",
+      "cs": "Kdo ještě sáhne na tu páku...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00151F",
+          "cs": "Kdo ještě sáhne na tu páku..."
+        }
+      ]
+    },
+    {
+      "id": "message.001468",
+      "cs": "Máte štěstí, že se umím ovládat!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001561",
+          "cs": "Máte štěstí, že se umím ovládat!"
+        }
+      ]
+    },
+    {
+      "id": "message.0014AC",
+      "cs": "Mně je tu dobře, a basta!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0015A5",
+          "cs": "Mně je tu dobře, a basta!"
+        }
+      ]
+    },
+    {
+      "id": "message.0014E5",
+      "cs": "Máte peníze?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0015DE",
+          "cs": "Máte peníze?"
+        }
+      ]
+    },
+    {
+      "id": "message.00150B",
+      "cs": "Dwilgelindildong!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001600",
+          "cs": "Dwilgelindildong!"
+        }
+      ]
+    },
+    {
+      "id": "message.00152B",
+      "cs": "Dwingdingdongdong!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00161F",
+          "cs": "Dwingdingdongdong!"
+        }
+      ]
+    },
+    {
+      "id": "message.001548",
+      "cs": "Sakra! Zase vedle...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00163B",
+          "cs": "Sakra! Zase vedle..."
+        }
+      ]
+    },
+    {
+      "id": "message.00156C",
+      "cs": "Dwilgelindildong!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001661",
+          "cs": "Dwilgelindildong!"
+        }
+      ]
+    },
+    {
+      "id": "message.001588",
+      "cs": "Tak, a povedlo se!!!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00167C",
+          "cs": "Tak, a povedlo se!!!"
+        }
+      ]
+    },
+    {
+      "id": "message.001611",
+      "cs": "Vřelou slzu, vy domýšliví poslové.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0016F9",
+          "cs": "Vřelou slzu, domýšliví poslové."
+        }
+      ]
+    },
+    {
+      "id": "message.001642",
+      "cs": "Nemáte pár drobných, šéfe?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001724",
+          "cs": "Nemáte pár drobných,"
+        },
+        {
+          "id": "MESSAGED.IO:001745",
+          "cs": "šéfe?"
+        }
+      ]
+    },
+    {
+      "id": "message.001944",
+      "cs": "Tohle neunesete.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001A46",
+          "cs": "Tohle neunesete."
+        }
+      ]
+    },
+    {
+      "id": "message.001960",
+      "cs": "To je pro opačné pohlaví...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001A64",
+          "cs": "To je pro opačné pohlaví..."
+        }
+      ]
+    },
+    {
+      "id": "message.001985",
+      "cs": "relikvie",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001A94",
+          "cs": "relikvie"
+        }
+      ]
+    },
+    {
+      "id": "message.001994",
+      "cs": "náhrdelník",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001AA7",
+          "cs": "náhrdelník"
+        }
+      ]
+    },
+    {
+      "id": "message.0019A6",
+      "cs": "kouzelný kotlík",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001ABB",
+          "cs": "kouz. kotlík"
+        }
+      ]
+    },
+    {
+      "id": "message.0019BE",
+      "cs": "orel",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001AD2",
+          "cs": "orel"
+        }
+      ]
+    },
+    {
+      "id": "message.0019CD",
+      "cs": "modla",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001AE2",
+          "cs": "modla"
+        }
+      ]
+    },
+    {
+      "id": "message.0019DB",
+      "cs": "velitelův klíč",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001AF8",
+          "cs": "velitelův klíč"
+        }
+      ]
+    },
+    {
+      "id": "message.0019FF",
+      "cs": "klíč od vězení",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001B24",
+          "cs": "klíč od vězení"
+        }
+      ]
+    },
+    {
+      "id": "message.001A13",
+      "cs": "roh",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001B41",
+          "cs": "roh"
+        }
+      ]
+    },
+    {
+      "id": "message.001A21",
+      "cs": "pavián",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001B50",
+          "cs": "pavián"
+        }
+      ]
+    },
+    {
+      "id": "message.001A31",
+      "cs": "straka",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001B61",
+          "cs": "straka"
+        }
+      ]
+    },
+    {
+      "id": "message.001A41",
+      "cs": "papoušek",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001B72",
+          "cs": "papoušek"
+        }
+      ]
+    },
+    {
+      "id": "message.001A51",
+      "cs": "myš",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001B84",
+          "cs": "myš"
+        }
+      ]
+    },
+    {
+      "id": "message.001A60",
+      "cs": "rostlina",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001B93",
+          "cs": "rostlina"
+        }
+      ]
+    },
+    {
+      "id": "message.001A6F",
+      "cs": "štít (+4)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001BA5",
+          "cs": "štít (+4)"
+        }
+      ]
+    },
+    {
+      "id": "message.001A84",
+      "cs": "štít (+1)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001BBB",
+          "cs": "štít (+1)"
+        }
+      ]
+    },
+    {
+      "id": "message.001A99",
+      "cs": "štít (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001BD1",
+          "cs": "štít (+2)"
+        }
+      ]
+    },
+    {
+      "id": "message.001AAE",
+      "cs": "štít (+3)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001BE7",
+          "cs": "štít (+3)"
+        }
+      ]
+    },
+    {
+      "id": "message.001AC3",
+      "cs": "štít (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001BFD",
+          "cs": "štít (+6)"
+        }
+      ]
+    },
+    {
+      "id": "message.001AD8",
+      "cs": "přívěsek",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001C13",
+          "cs": "přívěsek"
+        }
+      ]
+    },
+    {
+      "id": "message.001AE9",
+      "cs": "lano",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001C26",
+          "cs": "lano"
+        }
+      ]
+    },
+    {
+      "id": "message.001AF7",
+      "cs": "šípy",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001C35",
+          "cs": "šípy"
+        }
+      ]
+    },
+    {
+      "id": "message.001B07",
+      "cs": "jídlo",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001C46",
+          "cs": "jídlo"
+        }
+      ]
+    },
+    {
+      "id": "message.001B15",
+      "cs": "bílé houby",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001C58",
+          "cs": "bílé houby"
+        }
+      ]
+    },
+    {
+      "id": "message.001B2E",
+      "cs": "mlokový olej",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001C6E",
+          "cs": "mlokový olej"
+        }
+      ]
+    },
+    {
+      "id": "message.001B49",
+      "cs": "pavučina",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001C85",
+          "cs": "pavučina"
+        }
+      ]
+    },
+    {
+      "id": "message.001B5F",
+      "cs": "sušené jmelí",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001C9B",
+          "cs": "sušené jmelí"
+        }
+      ]
+    },
+    {
+      "id": "message.001B78",
+      "cs": "krysí mozek",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001CBE",
+          "cs": "krysí mozek"
+        }
+      ]
+    },
+    {
+      "id": "message.001B8D",
+      "cs": "drápy chrliče",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001CD3",
+          "cs": "drápy chrliče"
+        }
+      ]
+    },
+    {
+      "id": "message.001BA5",
+      "cs": "černé houby",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001CF1",
+          "cs": "černé houby"
+        }
+      ]
+    },
+    {
+      "id": "message.001BBE",
+      "cs": "protěž",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001D0B",
+          "cs": "protěž"
+        }
+      ]
+    },
+    {
+      "id": "message.001BD1",
+      "cs": "svazek pampelišek",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001D1E",
+          "cs": "pampelišky"
+        }
+      ]
+    },
+    {
+      "id": "message.001BED",
+      "cs": "zbroj (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001D32",
+          "cs": "zbroj (+2)"
+        }
+      ]
+    },
+    {
+      "id": "message.001C02",
+      "cs": "kroužková košile (+3)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001D49",
+          "cs": "kroužk. (+3)"
+        }
+      ]
+    },
+    {
+      "id": "message.001C23",
+      "cs": "zbroj (+5)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001D60",
+          "cs": "zbroj (+5)"
+        }
+      ]
+    },
+    {
+      "id": "message.001C38",
+      "cs": "zbroj (+7)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001D77",
+          "cs": "zbroj (+7)"
+        }
+      ]
+    },
+    {
+      "id": "message.001C4D",
+      "cs": "zbroj (+9)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001D8E",
+          "cs": "zbroj (+9)"
+        }
+      ]
+    },
+    {
+      "id": "message.001C62",
+      "cs": "zbroj (+12)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001DA5",
+          "cs": "zbroj (+12)"
+        }
+      ]
+    },
+    {
+      "id": "message.001C78",
+      "cs": "večerní tunika",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001DBD",
+          "cs": "večerní tunika"
+        }
+      ]
+    },
+    {
+      "id": "message.001C8F",
+      "cs": "zbroj (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001DD5",
+          "cs": "zbroj (+2)"
+        }
+      ]
+    },
+    {
+      "id": "message.001CA4",
+      "cs": "zbroj (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001DEC",
+          "cs": "zbroj (+6)"
+        }
+      ]
+    },
+    {
+      "id": "message.001CB9",
+      "cs": "kožich",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001E03",
+          "cs": "kožich"
+        }
+      ]
+    },
+    {
+      "id": "message.001CCB",
+      "cs": "kutna",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001E18",
+          "cs": "kutna"
+        }
+      ]
+    },
+    {
+      "id": "message.001CDD",
+      "cs": "přilba (+1)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001E2E",
+          "cs": "přilba(+1)"
+        }
+      ]
+    },
+    {
+      "id": "message.001CF2",
+      "cs": "přilba (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001E42",
+          "cs": "přilba(+2)"
+        }
+      ]
+    },
+    {
+      "id": "message.001D07",
+      "cs": "přilba (+3)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001E56",
+          "cs": "přilba(+3)"
+        }
+      ]
+    },
+    {
+      "id": "message.001D1C",
+      "cs": "přilba (+4)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001E6A",
+          "cs": "přilba(+4)"
+        }
+      ]
+    },
+    {
+      "id": "message.001D31",
+      "cs": "vrhací dýka (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001E7E",
+          "cs": "vrh. dýka (+2)"
+        }
+      ]
+    },
+    {
+      "id": "message.001D4F",
+      "cs": "kopí (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001E98",
+          "cs": "kopí (+6)"
+        }
+      ]
+    },
+    {
+      "id": "message.001D63",
+      "cs": "šavle (+8)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001EAD",
+          "cs": "šavle (+8)"
+        }
+      ]
+    },
+    {
+      "id": "message.001D77",
+      "cs": "dýka (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001EC2",
+          "cs": "dýka (+6)"
+        }
+      ]
+    },
+    {
+      "id": "message.001D8C",
+      "cs": "dýka (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001ED7",
+          "cs": "dýka (+2)"
+        }
+      ]
+    },
+    {
+      "id": "message.001DA1",
+      "cs": "těžká sekera (+12)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001EEC",
+          "cs": "těžká sekera (+12)"
+        }
+      ]
+    },
+    {
+      "id": "message.001DBA",
+      "cs": "kuše (+9)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001F09",
+          "cs": "kuše (+9)"
+        }
+      ]
+    },
+    {
+      "id": "message.001DD1",
+      "cs": "luk (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001F21",
+          "cs": "luk (+6)"
+        }
+      ]
+    },
+    {
+      "id": "message.001DE3",
+      "cs": "řemdih (+8)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001F36",
+          "cs": "řemdih (+8)"
+        }
+      ]
+    },
+    {
+      "id": "message.001DF7",
+      "cs": "palcát (+10)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001F51",
+          "cs": "palcát (+10)"
+        }
+      ]
+    },
+    {
+      "id": "message.001E0B",
+      "cs": "meč (+15)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001F6E",
+          "cs": "meč (+15)"
+        }
+      ]
+    },
+    {
+      "id": "message.001E20",
+      "cs": "meč (+11)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001F86",
+          "cs": "meč (+11)"
+        }
+      ]
+    },
+    {
+      "id": "message.001E35",
+      "cs": "meč (+5)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001F9E",
+          "cs": "meč (+5)"
+        }
+      ]
+    },
+    {
+      "id": "message.001E49",
+      "cs": "meč (+4)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001FB5",
+          "cs": "meč (+4)"
+        }
+      ]
+    },
+    {
+      "id": "message.001E5D",
+      "cs": "kostěný luk (+8)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001FCC",
+          "cs": "kostěný luk (+8)"
+        }
+      ]
+    },
+    {
+      "id": "message.001E74",
+      "cs": "kyj (+5)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001FE8",
+          "cs": "kyj (+5)"
+        }
+      ]
+    },
+    {
+      "id": "message.001E87",
+      "cs": "živý meč (+20)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:001FFD",
+          "cs": "živý meč (+20)"
+        }
+      ]
+    },
+    {
+      "id": "message.001EA3",
+      "cs": "živý meč Chaosu (+20)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00201F",
+          "cs": "živý meč Chaosu (+20)"
+        }
+      ]
+    },
+    {
+      "id": "message.001EC5",
+      "cs": "meč (+12)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00204C",
+          "cs": "meč (+12)"
+        }
+      ]
+    },
+    {
+      "id": "message.001EDA",
+      "cs": "hůl (+1)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002064",
+          "cs": "hůl (+1)"
+        }
+      ]
+    },
+    {
+      "id": "message.001EEE",
+      "cs": "hůl (+5)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00207B",
+          "cs": "hůl (+5)"
+        }
+      ]
+    },
+    {
+      "id": "message.001F02",
+      "cs": "řemdih (+9)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002095",
+          "cs": "řemdih (+9)"
+        }
+      ]
+    },
+    {
+      "id": "message.001F16",
+      "cs": "sekera (+25)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0020B1",
+          "cs": "sekera (+25)"
+        }
+      ]
+    },
+    {
+      "id": "message.001F29",
+      "cs": "trojzubec (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0020D0",
+          "cs": "trojzubec (+6)"
+        }
+      ]
+    },
+    {
+      "id": "message.001F3F",
+      "cs": "bič (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0020E8",
+          "cs": "bič (+2)"
+        }
+      ]
+    },
+    {
+      "id": "message.001F52",
+      "cs": "dýka (+10)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002100",
+          "cs": "dýka (+10)"
+        }
+      ]
+    },
+    {
+      "id": "message.001F68",
+      "cs": "Au!!!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002116",
+          "cs": "Au!!!"
+        }
+      ]
+    },
+    {
+      "id": "message.001FA0",
+      "cs": "člověk",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00214E",
+          "cs": "člověk"
+        }
+      ]
+    },
+    {
+      "id": "message.001FAF",
+      "cs": "elf",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00215E",
+          "cs": "elf"
+        }
+      ]
+    },
+    {
+      "id": "message.001FBC",
+      "cs": "trpaslík",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00216B",
+          "cs": "trp."
+        }
+      ]
+    },
+    {
+      "id": "message.001FCB",
+      "cs": "ork",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00217A",
+          "cs": "ork"
+        }
+      ]
+    },
+    {
+      "id": "message.001FD8",
+      "cs": "ještěří muž",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002187",
+          "cs": "ještěří muž"
+        }
+      ]
+    },
+    {
+      "id": "message.00201A",
+      "cs": "potulný rytíř",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0021CA",
+          "cs": "rytíř"
+        }
+      ]
+    },
+    {
+      "id": "message.002031",
+      "cs": "válečník",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0021DA",
+          "cs": "válečník"
+        }
+      ]
+    },
+    {
+      "id": "message.002042",
+      "cs": "hraničář",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0021EB",
+          "cs": "hran."
+        }
+      ]
+    },
+    {
+      "id": "message.002052",
+      "cs": "barbar",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0021FB",
+          "cs": "barbar"
+        }
+      ]
+    },
+    {
+      "id": "message.002065",
+      "cs": "zloděj",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00220B",
+          "cs": "zlod."
+        }
+      ]
+    },
+    {
+      "id": "message.002074",
+      "cs": "učenec",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002219",
+          "cs": "učenec"
+        }
+      ]
+    },
+    {
+      "id": "message.002085",
+      "cs": "mág",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00222E",
+          "cs": "mág"
+        }
+      ]
+    },
+    {
+      "id": "message.002097",
+      "cs": "lučištník",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00223E",
+          "cs": "lučištník"
+        }
+      ]
+    },
+    {
+      "id": "message.0020A7",
+      "cs": "špeh",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002254",
+          "cs": "špeh"
+        }
+      ]
+    },
+    {
+      "id": "message.0020B4",
+      "cs": "kněz",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002263",
+          "cs": "kněz"
+        }
+      ]
+    },
+    {
+      "id": "message.0020C4",
+      "cs": "žoldnéř",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002275",
+          "cs": "žoldnéř"
+        }
+      ]
+    },
+    {
+      "id": "message.0020D7",
+      "cs": "žebrák",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002286",
+          "cs": "žebrák"
+        }
+      ]
+    },
+    {
+      "id": "message.0020E7",
+      "cs": "vrah",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002297",
+          "cs": "vrah"
+        }
+      ]
+    },
+    {
+      "id": "message.0020F9",
+      "cs": "kněžka",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0022A7",
+          "cs": "kněžka"
+        }
+      ]
+    },
+    {
+      "id": "message.00210C",
+      "cs": "hypnotizér",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0022BB",
+          "cs": "hypnotizér"
+        }
+      ]
+    },
+    {
+      "id": "message.00211F",
+      "cs": "čarodějnice",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0022D0",
+          "cs": "čar."
+        }
+      ]
+    },
+    {
+      "id": "message.00212E",
+      "cs": "temný rytíř",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0022DE",
+          "cs": "temný rytíř"
+        }
+      ]
+    },
+    {
+      "id": "message.002143",
+      "cs": "okultní mnich",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0022F9",
+          "cs": "okultní mnich"
+        }
+      ]
+    },
+    {
+      "id": "message.002158",
+      "cs": "druid",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002312",
+          "cs": "druid"
+        }
+      ]
+    },
+    {
+      "id": "message.002164",
+      "cs": "pak stiskněte Enter:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00231F",
+          "cs": "pak stiskněte Enter:"
+        }
+      ]
+    },
+    {
+      "id": "message.00218A",
+      "cs": "Zrušit klávesou F1",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:00234D",
+          "cs": "Zrušit klávesou F1"
+        }
+      ]
+    },
+    {
+      "id": "message.0021C2",
+      "cs": "do A",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:002393",
+          "cs": "do A"
+        }
+      ]
+    },
+    {
+      "id": "message.0021D9",
+      "cs": "do DF0",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0023AB",
+          "cs": "do DF0"
+        }
+      ]
+    },
+    {
+      "id": "message.0021F4",
+      "cs": "do B",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0023C7",
+          "cs": "do B"
+        }
+      ]
+    },
+    {
+      "id": "message.002207",
+      "cs": "pak stiskněte Enter",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:0023DB",
+          "cs": "pak stiskněte Enter"
+        }
+      ]
+    },
+    {
+      "id": "textin.000",
+      "cs": "Stát, vy křupani! Vy nastrojení darebáci! Špinaví cizáčtí pitomci! Odvedeme vás zpátky na hrad. Vysvětlíte to Gordbnoeufovi.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00013E",
+          "cs": "Stát, křupani! Nastrojené maškary!"
+        },
+        {
+          "id": "TEXTIND.IO:000172",
+          "cs": "Špinaví cizáci!"
+        },
+        {
+          "id": "TEXTIND.IO:00018F",
+          "cs": "Pitomci! Zpátky na hrad! Tam to"
+        },
+        {
+          "id": "TEXTIND.IO:0001BE",
+          "cs": "vysvětlíte Gordbnoeufovi."
+        }
+      ]
+    },
+    {
+      "id": "textin.001",
+      "cs": "Vřelou slzu, vy usmrkanci na cestách! Já jsem Gordbnoeuf, pán sídla. Na našich pozemcích si klidně pobíhejte a dělejte rámus, ale pozor, žádné lumpárny nestrpím!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000204",
+          "cs": "Vřelou slzu, vy usmrkanci!"
+        },
+        {
+          "id": "TEXTIND.IO:00022E",
+          "cs": "Já jsem Gordbnoeuf, pán sídla."
+        },
+        {
+          "id": "TEXTIND.IO:000264",
+          "cs": "Na naší půdě pobíhejte a hlučte,"
+        },
+        {
+          "id": "TEXTIND.IO:000297",
+          "cs": "ale pozor, žádné lumpárny nestrpím!"
+        }
+      ]
+    },
+    {
+      "id": "textin.002",
+      "cs": "Tak vy nám chcete štípnout loďku? Styďte se! Trápím se, protože nějaký nenechavec ukradl náhrdelník mé milé.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0002DA",
+          "cs": "Tak vy nám chcete štípnout loďku?"
+        },
+        {
+          "id": "TEXTIND.IO:00030E",
+          "cs": "Styďte se! Trápím se, protože"
+        },
+        {
+          "id": "TEXTIND.IO:00033B",
+          "cs": "nějaký nenechavec ukradl"
+        },
+        {
+          "id": "TEXTIND.IO:00036E",
+          "cs": "náhrdelník mé milé."
+        }
+      ]
+    },
+    {
+      "id": "textin.003",
+      "cs": "Á! Strašáci vyrazili ven? A vracíte se s prázdnou? Já věděl, že jste jen banda bosých chvastounů. Vřelou slzu!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0003B4",
+          "cs": "Á! Strašáci vyrazili ven?"
+        },
+        {
+          "id": "TEXTIND.IO:0003E1",
+          "cs": "A vracíte se s prázdnou? Já věděl,"
+        },
+        {
+          "id": "TEXTIND.IO:000417",
+          "cs": "že jste jen banda bosých chvastounů."
+        },
+        {
+          "id": "TEXTIND.IO:000445",
+          "cs": "Vřelou slzu!"
+        }
+      ]
+    },
+    {
+      "id": "textin.004",
+      "cs": "Vítězné fanfáry! Colombinin šperk! Tisíceré díky za pomoc! Zasloužíte si štědrou odměnu: loďku nechávám vám.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000494",
+          "cs": "Fanfáry! Colombinin šperk!"
+        },
+        {
+          "id": "TEXTIND.IO:0004BD",
+          "cs": "Tisíceré díky za pomoc!"
+        },
+        {
+          "id": "TEXTIND.IO:0004F2",
+          "cs": "Zasloužíte si štědrou odměnu:"
+        },
+        {
+          "id": "TEXTIND.IO:000526",
+          "cs": "loďku nechávám vám."
+        }
+      ]
+    },
+    {
+      "id": "textin.005",
+      "cs": "Už jste tu zas, vy příživníci? Já nejsem žádná charita! Radím vám, kliďte se, než vám pořádně nařežu!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000565",
+          "cs": "Už jste tu zas, vy příživníci?"
+        },
+        {
+          "id": "TEXTIND.IO:000598",
+          "cs": "Já nejsem žádná charita!"
+        },
+        {
+          "id": "TEXTIND.IO:0005BB",
+          "cs": "Radím vám, kliďte se,"
+        },
+        {
+          "id": "TEXTIND.IO:0005EF",
+          "cs": "než vám pořádně nařežu!"
+        }
+      ]
+    },
+    {
+      "id": "textin.006",
+      "cs": "Shandarovi myrmidoni... oběť... unikl jsem... přívěsek... pro vás... ptáci... pověsti... zachraňte Kendor... ááá... je po mně. Ááá... Dwilgelindil... argh!!!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00061F",
+          "cs": "Shandarovi myrmidoni... oběť..."
+        },
+        {
+          "id": "TEXTIND.IO:00064E",
+          "cs": "unikl... přívěsek... pro vás... ptáci..."
+        },
+        {
+          "id": "TEXTIND.IO:000681",
+          "cs": "pověsti... spaste Kendor... konec..."
+        },
+        {
+          "id": "TEXTIND.IO:0006B2",
+          "cs": "Dwilgelindil... argh!"
+        }
+      ]
+    },
+    {
+      "id": "textin.007",
+      "cs": "Vítejte v našem krásném městě, vznešení cizinci. Jsem velitel Zachova ostrova. Potkáte-li malou Zeldy, přiveďte ji zpátky ke mně, mám pro ni překvapení.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0006EA",
+          "cs": "Vítejte v našem městě, vzácní cizinci."
+        },
+        {
+          "id": "TEXTIND.IO:00071F",
+          "cs": "Jsem velitel Zachova ostrova."
+        },
+        {
+          "id": "TEXTIND.IO:000750",
+          "cs": "Najdete-li malou Zeldy, přiveďte"
+        },
+        {
+          "id": "TEXTIND.IO:000786",
+          "cs": "ji ke mně. Mám pro ni překvapení."
+        }
+      ]
+    },
+    {
+      "id": "textin.008",
+      "cs": "Vřelou slzu, milí daňoví poplatníci. Jsem velitel tohoto nádherného města. Miluji umění, hlavně sochařství. Jsem zkrátka citlivá duše.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0007D1",
+          "cs": "Vřelou slzu, milí daňoví poplatníci."
+        },
+        {
+          "id": "TEXTIND.IO:000806",
+          "cs": "Jsem velitel tohoto nádherného města."
+        },
+        {
+          "id": "TEXTIND.IO:00083B",
+          "cs": "Miluji umění, hlavně sochařství."
+        },
+        {
+          "id": "TEXTIND.IO:000869",
+          "cs": "Jsem zkrátka citlivá duše."
+        }
+      ]
+    },
+    {
+      "id": "textin.009",
+      "cs": "Když tak o tom přemýšlím, Zachův ostrov má ale štěstí, že mě Shandar jmenoval velitelem města! Je pravda, že jsem dobrý, čestný, vyrovnaný a skromný.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0008B6",
+          "cs": "Když tak přemýšlím, Zachův ostrov"
+        },
+        {
+          "id": "TEXTIND.IO:0008E7",
+          "cs": "má štěstí, že mě Shandar jmenoval"
+        },
+        {
+          "id": "TEXTIND.IO:000919",
+          "cs": "velitelem města! Jsem dobrý, čestný,"
+        },
+        {
+          "id": "TEXTIND.IO:00094C",
+          "cs": "vyrovnaný a skromný."
+        }
+      ]
+    },
+    {
+      "id": "textin.010",
+      "cs": "Příznivý vítr, bratři! Vítejte v příbytku Pána živlu. Pokloňte se modle. Jeho dech osvěžuje ducha a povznáší tělo.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00098D",
+          "cs": "Příznivý vítr, bratři! Vítejte v příbytku"
+        },
+        {
+          "id": "TEXTIND.IO:0009C2",
+          "cs": "Pána živlu. Pokloňte se modle."
+        },
+        {
+          "id": "TEXTIND.IO:0009F2",
+          "cs": "Jeho dech osvěžuje ducha"
+        },
+        {
+          "id": "TEXTIND.IO:000A26",
+          "cs": "a povznáší tělo."
+        }
+      ]
+    },
+    {
+      "id": "textin.011",
+      "cs": "Zlý vítr, bratři. Modla byla ukradena. Velké neštěstí pro naše společenství! Celé desetiletí se budeme postit a zpívat chvalozpěvy, aby se nám vrátila.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000A5C",
+          "cs": "Zlý vítr, bratři. Modlu ukradli."
+        },
+        {
+          "id": "TEXTIND.IO:000A8F",
+          "cs": "Naše obec trpí! Deset let se budeme"
+        },
+        {
+          "id": "TEXTIND.IO:000AC2",
+          "cs": "postit a zpívat chvalozpěvy,"
+        },
+        {
+          "id": "TEXTIND.IO:000AF1",
+          "cs": "aby se nám modla vrátila."
+        }
+      ]
+    },
+    {
+      "id": "textin.012",
+      "cs": "Šťastný vánek, bratři. Buďte požehnáni za poklad, který nám vracíte. Na znamení vděku přijměte symbol našeho společenství. Jediný pozná své věrné...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000B23",
+          "cs": "Šťastný vánek, bratři. Buďte požehnáni"
+        },
+        {
+          "id": "TEXTIND.IO:000B58",
+          "cs": "za poklad, který nám vracíte!"
+        },
+        {
+          "id": "TEXTIND.IO:000B8A",
+          "cs": "Z vděku přijměte symbol naší obce."
+        },
+        {
+          "id": "TEXTIND.IO:000BBF",
+          "cs": "Jediný pozná své věrné..."
+        }
+      ]
+    },
+    {
+      "id": "textin.013",
+      "cs": "Takový obraz by člověk rád vídal častěji... Získáváte 100 000 zl.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000BF3",
+          "cs": "Takový obraz by člověk rád vídal častěji..."
+        },
+        {
+          "id": "TEXTIND.IO:000C28",
+          "cs": "Získáváte 100 000 zl."
+        }
+      ]
+    },
+    {
+      "id": "textin.014",
+      "cs": "Podívejte, co jsem našel v kartografickém oddělení: mapu Akeerova ostrova, nejnovější vydání cestovního průvodce. No tak, Dwigelindong, půjčíme si ji...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000C5B",
+          "cs": "Podívejte, co je v oddělení map:"
+        },
+        {
+          "id": "TEXTIND.IO:000C8B",
+          "cs": "mapa Akeerova ostrova, nejnovější"
+        },
+        {
+          "id": "TEXTIND.IO:000CBC",
+          "cs": "cestovní průvodce. Dwigelindong,"
+        },
+        {
+          "id": "TEXTIND.IO:000CEE",
+          "cs": "no tak, půjčíme si ji..."
+        }
+      ]
+    },
+    {
+      "id": "textin.015",
+      "cs": "Výňatek z knihy 'Jon, můj život a dílo':\nSchloumz: obnova tělesné energie\nGhoslam: obnova duševní energie\nClopatos: nezranitelnost",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000D45",
+          "cs": "Z knihy 'Jon, můj život a dílo':"
+        },
+        {
+          "id": "TEXTIND.IO:000D78",
+          "cs": "Schloumz: tělesná obnova"
+        },
+        {
+          "id": "TEXTIND.IO:000DA9",
+          "cs": "Ghoslam: duševní obnova"
+        },
+        {
+          "id": "TEXTIND.IO:000DD6",
+          "cs": "Clopatos: nezranitelnost"
+        }
+      ]
+    },
+    {
+      "id": "textin.016",
+      "cs": "Bulkal: proti ochrnutí\nMildong: proti závrati\nJablou: poplach entů\nHumbolg: neklidný kněz",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000E04",
+          "cs": "Bulkal: proti ochrnutí"
+        },
+        {
+          "id": "TEXTIND.IO:000E25",
+          "cs": "Mildong: proti závrati"
+        },
+        {
+          "id": "TEXTIND.IO:000E49",
+          "cs": "Jablou: poplach entů"
+        },
+        {
+          "id": "TEXTIND.IO:000E67",
+          "cs": "Humbolg: neklidný kněz"
+        }
+      ]
+    },
+    {
+      "id": "textin.017",
+      "cs": "Dwiglongdil! Sebrané spisy Silmarils: Krystaly Arborey, Ishar - Legenda o tvrzi, Ishar II - Poslové zkázy, Ishar III...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000E9B",
+          "cs": "Dwiglongdil! Sebrané spisy Silmarils:"
+        },
+        {
+          "id": "TEXTIND.IO:000ECD",
+          "cs": "Krystaly Arborey, Ishar -"
+        },
+        {
+          "id": "TEXTIND.IO:000EF9",
+          "cs": "Legenda o tvrzi, Ishar II -"
+        },
+        {
+          "id": "TEXTIND.IO:000F2E",
+          "cs": "Poslové zkázy, Ishar III..."
+        }
+      ]
+    },
+    {
+      "id": "textin.018",
+      "cs": "Vzdejte se! Jste obklíčeni! Prvního, kdo se pohne, nabodneme jako koroptev! Tak pojďte, chlapíci, Dindong, do vězení. Aspoň si odpočinou vaše kukadla.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:000F67",
+          "cs": "Vzdejte se! Jste obklíčeni! Kdo se"
+        },
+        {
+          "id": "TEXTIND.IO:000F99",
+          "cs": "hne, toho nabodnem jak koroptev! Tak"
+        },
+        {
+          "id": "TEXTIND.IO:000FCA",
+          "cs": "pojďte, chlapíci, Dindong, do vězení."
+        },
+        {
+          "id": "TEXTIND.IO:000FF9",
+          "cs": "Tam si odpočinou vaše kukadla."
+        }
+      ]
+    },
+    {
+      "id": "textin.019",
+      "cs": "Tak vy tu děláte výtržnosti, hrdinové? Neumíte se chovat!? Tak šup, Dingdong, ztraťte se! Nebo to s vámi dopadne špatně.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001028",
+          "cs": "Tak vy tu děláte výtržnosti, hrdinové?"
+        },
+        {
+          "id": "TEXTIND.IO:001059",
+          "cs": "Neumíte se chovat!? Tak šup,"
+        },
+        {
+          "id": "TEXTIND.IO:001087",
+          "cs": "Dingdong, ztraťte se! Nebo"
+        },
+        {
+          "id": "TEXTIND.IO:0010B3",
+          "cs": "to s vámi dopadne špatně."
+        }
+      ]
+    },
+    {
+      "id": "textin.020",
+      "cs": "Hořké slzy... Jmenuji se Olbar. Jsem velký hrdina. Dokonce po mně pojmenovali ostrov. Dingdong, nevěříte mi? Tak já vám to dokážu, tady je ta jediná mapa...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001102",
+          "cs": "Hořké slzy... Jsem Olbar,"
+        },
+        {
+          "id": "TEXTIND.IO:001133",
+          "cs": "velký hrdina. I ostrov po mně"
+        },
+        {
+          "id": "TEXTIND.IO:001164",
+          "cs": "pojmenovali. Dingdong, nevěříte?"
+        },
+        {
+          "id": "TEXTIND.IO:001197",
+          "cs": "Dokážu vám to, tady je jediná mapa..."
+        }
+      ]
+    },
+    {
+      "id": "textin.021",
+      "cs": "... Pamatuju si báseň z těch časů... 7 Dwinglonglong, Olbar, Jarel, Jon a další. Jsou krásní, jsou ušlechtilí! To je těch 7 slavných žoldnéřů!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0011D1",
+          "cs": "... Znám báseň z těch dob..."
+        },
+        {
+          "id": "TEXTIND.IO:001200",
+          "cs": "7 Dwinglonglong, Olbar, Jarel, Jon..."
+        },
+        {
+          "id": "TEXTIND.IO:001233",
+          "cs": "Jsou krásní a ušlechtilí!"
+        },
+        {
+          "id": "TEXTIND.IO:001264",
+          "cs": "To je 7 slavných žoldnéřů!"
+        }
+      ]
+    },
+    {
+      "id": "textin.022",
+      "cs": "Rač přijmout malou Zeldy, ať konečně najde štěstí ve tvém království rozkoší.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001311",
+          "cs": "Rač přijmout malou Zeldy,"
+        },
+        {
+          "id": "TEXTIND.IO:001344",
+          "cs": "ať konečně najde štěstí ve tvém"
+        },
+        {
+          "id": "TEXTIND.IO:001370",
+          "cs": "království rozkoší."
+        }
+      ]
+    },
+    {
+      "id": "textin.023",
+      "cs": "Ó Shandare, veleknězi Chaosu, přijmi tuto cudnou oběť, spásnou krev, jež zchladí tvou žízeň! Dwidongdingue! Shandare! Dwidongdingue!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001394",
+          "cs": "Ó Shandare, veleknězi Chaosu, přijmi"
+        },
+        {
+          "id": "TEXTIND.IO:0013C6",
+          "cs": "tuto cudnou oběť, spásnou krev,"
+        },
+        {
+          "id": "TEXTIND.IO:0013F3",
+          "cs": "jež zchladí tvou žízeň! Dwidongdingue!"
+        },
+        {
+          "id": "TEXTIND.IO:001428",
+          "cs": "Shandare! Dwidongdingue!"
+        }
+      ]
+    },
+    {
+      "id": "textin.024",
+      "cs": "Po Kroghově smrti se Arborea stala zapovězeným místem pro všechny služebníky Chaosu. Shandar využil příchodu velkého množství lidí ze Severních zemí...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00145D",
+          "cs": "Po Kroghově smrti se Arborea"
+        },
+        {
+          "id": "TEXTIND.IO:00148C",
+          "cs": "uzavřela všem služebníkům"
+        },
+        {
+          "id": "TEXTIND.IO:0014BC",
+          "cs": "Chaosu. Shandar využil přílivu"
+        },
+        {
+          "id": "TEXTIND.IO:0014EB",
+          "cs": "mnoha lidí ze Severních zemí..."
+        }
+      ]
+    },
+    {
+      "id": "textin.025",
+      "cs": "... a odešel na Zachův ostrov. Začal pokoutně obchodovat s halucinogenními lektvary a brzy se stal bohatým a vlivným mužem.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001528",
+          "cs": "... a odešel na Zachův ostrov."
+        },
+        {
+          "id": "TEXTIND.IO:001557",
+          "cs": "Začal pokoutně obchodovat s"
+        },
+        {
+          "id": "TEXTIND.IO:00158B",
+          "cs": "halucinogenními lektvary a brzy se"
+        },
+        {
+          "id": "TEXTIND.IO:0015BF",
+          "cs": "stal bohatým a vlivným mužem."
+        }
+      ]
+    },
+    {
+      "id": "textin.026",
+      "cs": "Dnes mu patří celé město a četní věrní jej uctívají jako předmět démonického kultu. Sní o tom, že svrhne vládu Isharu a zmocní se tvrze.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0015F2",
+          "cs": "Dnes mu patří celé město. Davy věrných"
+        },
+        {
+          "id": "TEXTIND.IO:001628",
+          "cs": "jej uctívají v démonickém kultu."
+        },
+        {
+          "id": "TEXTIND.IO:001657",
+          "cs": "Sní o svržení vlády Isharu a o tom,"
+        },
+        {
+          "id": "TEXTIND.IO:00168B",
+          "cs": "že se zmocní tvrze."
+        }
+      ]
+    },
+    {
+      "id": "textin.027",
+      "cs": "Dva druidové, dvojčata Grimz a Griml, se pokusili postavit Shandarovi. Podařilo se jim proniknout do jeho tvrze, ale podlehli Shandarově moci.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0016B5",
+          "cs": "Druidové, dvojčata Grimz a Griml,"
+        },
+        {
+          "id": "TEXTIND.IO:0016E9",
+          "cs": "se postavili Shandarovi."
+        },
+        {
+          "id": "TEXTIND.IO:001715",
+          "cs": "Pronikli do jeho tvrze,"
+        },
+        {
+          "id": "TEXTIND.IO:00174A",
+          "cs": "ale Shandarova moc je přemohla."
+        }
+      ]
+    },
+    {
+      "id": "textin.028",
+      "cs": "Griml byl proměněn v kámen. Přátelé přinesli jeho tělo zpátky do jeho domu. Grimze rozsekali na kusy a jeho kosti rozházeli po ostrovech Arborey.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001787",
+          "cs": "Griml zkameněl. Přátelé odnesli"
+        },
+        {
+          "id": "TEXTIND.IO:0017B9",
+          "cs": "jeho tělo domů. Grimze rozsekali"
+        },
+        {
+          "id": "TEXTIND.IO:0017ED",
+          "cs": "na kusy a kosti rozházeli"
+        },
+        {
+          "id": "TEXTIND.IO:00181E",
+          "cs": "po ostrovech Arborey."
+        }
+      ]
+    },
+    {
+      "id": "textin.029",
+      "cs": "Říká se, že by Grimla mohl probudit dech předků a Grimz by mohl ožít prostřednictvím své dcery, kterou Shandar oslepil a uvěznil ve své tvrzi.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001851",
+          "cs": "Prý by Grimla probudil dech předků."
+        },
+        {
+          "id": "TEXTIND.IO:001883",
+          "cs": "Grimze by mohla oživit jeho dcera,"
+        },
+        {
+          "id": "TEXTIND.IO:0018B7",
+          "cs": "kterou Shandar oslepil"
+        },
+        {
+          "id": "TEXTIND.IO:0018E6",
+          "cs": "a uvěznil ve své tvrzi."
+        }
+      ]
+    },
+    {
+      "id": "textin.030",
+      "cs": "Promiňte, nejste vy náhodou Poslové zkázy? Mám něco, co by vás mohlo zajímat. Sejdeme se v uličce Čtyř věží mezi 2. a 4. hodinou.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00191E",
+          "cs": "Promiňte, jste snad Poslové zkázy?"
+        },
+        {
+          "id": "TEXTIND.IO:00194D",
+          "cs": "Mám něco, co vás bude zajímat."
+        },
+        {
+          "id": "TEXTIND.IO:001982",
+          "cs": "Sejdeme se v uličce Čtyř věží"
+        },
+        {
+          "id": "TEXTIND.IO:0019B1",
+          "cs": "mezi 2. a 4. hodinou."
+        }
+      ]
+    },
+    {
+      "id": "textin.031",
+      "cs": "Vřelou slzu, synku! Jsi tu nový, nechceš provést městem? Sejdeme se ve 4 hodiny u knihovny. Přivedu svou přítelkyni...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0019E2",
+          "cs": "Vřelou slzu, synku! Jsi tu nový?"
+        },
+        {
+          "id": "TEXTIND.IO:001A15",
+          "cs": "Chceš provést městem? Přijď"
+        },
+        {
+          "id": "TEXTIND.IO:001A4A",
+          "cs": "ve 4 hodiny ke knihovně."
+        },
+        {
+          "id": "TEXTIND.IO:001A79",
+          "cs": "Přivedu svou přítelkyni..."
+        }
+      ]
+    },
+    {
+      "id": "textin.032",
+      "cs": "Buďte zdrávi, poutníci! Nenechte si ujít naši modlu v chrámu živlu vzduchu. Tato socha, již kdysi vytesal mocný Caesar, je nesporně umělecké dílo.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001AA9",
+          "cs": "Buďte zdrávi, poutníci! Prohlédněte si"
+        },
+        {
+          "id": "TEXTIND.IO:001ADB",
+          "cs": "modlu v chrámu živlu vzduchu."
+        },
+        {
+          "id": "TEXTIND.IO:001B0E",
+          "cs": "Sochu kdysi vytesal mocný Caesar."
+        },
+        {
+          "id": "TEXTIND.IO:001B41",
+          "cs": "Je to skvostné umělecké dílo."
+        }
+      ]
+    },
+    {
+      "id": "textin.033",
+      "cs": "Náš nový dům je velice příjemný. Sousedství vězení vlastně není problém. Až na noci. Někdy, tak kolem 3 ráno, je slyšet pronikavý křik, ale jinak...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001B7A",
+          "cs": "Nový dům je moc příjemný. Vězení"
+        },
+        {
+          "id": "TEXTIND.IO:001BAD",
+          "cs": "vedle nám nijak nevadí. Až na noci."
+        },
+        {
+          "id": "TEXTIND.IO:001BE2",
+          "cs": "Někdy kolem 3 ráno je slyšet"
+        },
+        {
+          "id": "TEXTIND.IO:001C16",
+          "cs": "pronikavý křik, ale jinak..."
+        }
+      ]
+    },
+    {
+      "id": "textin.034",
+      "cs": "Dobrá, večer se s vámi sejdu v Blue Velvetu. Nezapomeňte oblek a náhrdelník, důstojník ve službě nemá smysl pro humor!!!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001C4A",
+          "cs": "Tak večer v Blue Velvetu."
+        },
+        {
+          "id": "TEXTIND.IO:001C7F",
+          "cs": "Nezapomeňte oblek a náhrdelník."
+        },
+        {
+          "id": "TEXTIND.IO:001CB4",
+          "cs": "Důstojník ve službě nemá"
+        },
+        {
+          "id": "TEXTIND.IO:001CE0",
+          "cs": "smysl pro humor!!!"
+        }
+      ]
+    },
+    {
+      "id": "textin.035",
+      "cs": "To nemůže nevyjít, Pogo... vejdi do krámu zezadu, pozlob ty šeptaly, vklouzni dovnitř, naplň pytel a přines mi ho. Je to hračka! Lehké jak vánek!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001D05",
+          "cs": "To vyjde, Pogo... vejdi do krámu"
+        },
+        {
+          "id": "TEXTIND.IO:001D37",
+          "cs": "zezadu, pozlob šeptaly, vklouzni"
+        },
+        {
+          "id": "TEXTIND.IO:001D67",
+          "cs": "dovnitř, naplň pytel a přines mi ho."
+        },
+        {
+          "id": "TEXTIND.IO:001D99",
+          "cs": "Hračka! Jak vánek!"
+        }
+      ]
+    },
+    {
+      "id": "textin.036",
+      "cs": "Starostova dcera zmizela! Dwigdinl, to je ostuda! Už páté zmizení od chvíle, co se úřadu ujal nový velitel...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001DBB",
+          "cs": "Starostova dcera zmizela!"
+        },
+        {
+          "id": "TEXTIND.IO:001DF2",
+          "cs": "Dwigdinl, to je ostuda!"
+        },
+        {
+          "id": "TEXTIND.IO:001E29",
+          "cs": "Už páté zmizení od chvíle,"
+        },
+        {
+          "id": "TEXTIND.IO:001E5D",
+          "cs": "co úřaduje nový velitel..."
+        }
+      ]
+    },
+    {
+      "id": "textin.037",
+      "cs": "Snif! Její poslední vzkaz: 'Můj hrdino, cítím se v nebezpečí, na čas odcházím... Beru s sebou klíč toho prasáka velitele. Nedělej si starosti. Tvá snoubenka Zeldy.'",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001E98",
+          "cs": "Snif! Její poslední vzkaz: 'Můj"
+        },
+        {
+          "id": "TEXTIND.IO:001ECB",
+          "cs": "hrdino, hrozí mi nebezpečí, na"
+        },
+        {
+          "id": "TEXTIND.IO:001EFC",
+          "cs": "čas odcházím. Beru klíč toho prasáka"
+        },
+        {
+          "id": "TEXTIND.IO:001F32",
+          "cs": "velitele. Neboj se. Tvá snoubenka Zeldy.'"
+        }
+      ]
+    },
+    {
+      "id": "textin.038",
+      "cs": "Na výpravu budeme potřebovat: lana, masti, pochodně, kožešiny, kápě, bílé houby, lektvary a pilu.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:001F6D",
+          "cs": "Na výpravu budeme potřebovat: lana,"
+        },
+        {
+          "id": "TEXTIND.IO:001FA2",
+          "cs": "masti, pochodně, kožešiny, kápě,"
+        },
+        {
+          "id": "TEXTIND.IO:001FD8",
+          "cs": "bílé houby, lektvary a pilu."
+        }
+      ]
+    },
+    {
+      "id": "textin.039",
+      "cs": "Teď jsem úplně začtený do knihy, je přímo feudální! Jmenuje se 'Ishar II - Poslové zkázy'. Vypráví o fantastických dobrodružstvích bandy starých vojáků.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00200B",
+          "cs": "Jsem začtený do přímo feudální knihy!"
+        },
+        {
+          "id": "TEXTIND.IO:00203F",
+          "cs": "Jmenuje se 'Ishar II - Poslové zkázy'."
+        },
+        {
+          "id": "TEXTIND.IO:002073",
+          "cs": "Líčí fantastická dobrodružství"
+        },
+        {
+          "id": "TEXTIND.IO:0020A8",
+          "cs": "party starých vojáků."
+        }
+      ]
+    },
+    {
+      "id": "textin.040",
+      "cs": "Viděl jsem Shandarovy pohůnky plížit se městem. Počasí je děsné... Daně zase rostou...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0020E2",
+          "cs": "Viděl jsem Shandarovy pohůnky"
+        },
+        {
+          "id": "TEXTIND.IO:002117",
+          "cs": "plížit se městem. Počasí je"
+        },
+        {
+          "id": "TEXTIND.IO:00214A",
+          "cs": "děsné... Daně zase rostou..."
+        }
+      ]
+    },
+    {
+      "id": "textin.041",
+      "cs": "Byl jsem u starého mága. Poskakoval na východě podél pobřeží. Je drahý, ale kouzlit rozhodně umí. Dokonce dovede psychoanalyzovat zvířata.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00217D",
+          "cs": "Navštívil jsem starého mága."
+        },
+        {
+          "id": "TEXTIND.IO:0021AE",
+          "cs": "Poskakoval na východě u pobřeží."
+        },
+        {
+          "id": "TEXTIND.IO:0021E4",
+          "cs": "Je drahý, ale čarovat umí. Dokonce"
+        },
+        {
+          "id": "TEXTIND.IO:002214",
+          "cs": "umí psychoanalyzovat zvířata."
+        }
+      ]
+    },
+    {
+      "id": "textin.042",
+      "cs": "Poslech\nJíst\nSpát\nNajmout",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00244C",
+          "cs": "Poslech"
+        },
+        {
+          "id": "TEXTIND.IO:00245E",
+          "cs": "Jíst"
+        },
+        {
+          "id": "TEXTIND.IO:00246D",
+          "cs": "Spát"
+        },
+        {
+          "id": "TEXTIND.IO:00247F",
+          "cs": "Najmout"
+        }
+      ]
+    },
+    {
+      "id": "textin.043",
+      "cs": "Cena jídla:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0024E3",
+          "cs": "Cena jídla:"
+        }
+      ]
+    },
+    {
+      "id": "textin.044",
+      "cs": "zl",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002500",
+          "cs": "zl"
+        }
+      ]
+    },
+    {
+      "id": "textin.045",
+      "cs": "Nemáte ani groš",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002518",
+          "cs": "Nemáte ani groš"
+        }
+      ]
+    },
+    {
+      "id": "textin.046",
+      "cs": "To fondue z chrliče je božské!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00254C",
+          "cs": "To fondue z chrliče je božské!"
+        }
+      ]
+    },
+    {
+      "id": "textin.047",
+      "cs": "Ta polévka z beholdela je výtečná!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002595",
+          "cs": "Ta polévka z beholdela je výtečná!"
+        }
+      ]
+    },
+    {
+      "id": "textin.048",
+      "cs": "Dwililidong, ten mozkový rosol!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0025D1",
+          "cs": "Dwililidong, ten mozkový rosol!"
+        }
+      ]
+    },
+    {
+      "id": "textin.049",
+      "cs": "Cena pokoje:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002617",
+          "cs": "Cena pokoje:"
+        }
+      ]
+    },
+    {
+      "id": "textin.050",
+      "cs": "zl",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002635",
+          "cs": "zl"
+        }
+      ]
+    },
+    {
+      "id": "textin.051",
+      "cs": "Jeden vlk, dva vlci, tři vlci...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00264D",
+          "cs": "Jeden vlk, dva vlci, tři vlci..."
+        }
+      ]
+    },
+    {
+      "id": "textin.052",
+      "cs": "Zatímco jste spali, někdo zmizel!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00268A",
+          "cs": "Během spánku se ztrácí"
+        }
+      ]
+    },
+    {
+      "id": "textin.053",
+      "cs": "Plná družina!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0026CB",
+          "cs": "Plná družina!"
+        }
+      ]
+    },
+    {
+      "id": "textin.054",
+      "cs": "Koho chcete najmout?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0026EA",
+          "cs": "Koho chcete najmout?"
+        }
+      ]
+    },
+    {
+      "id": "textin.055",
+      "cs": "Chcete něco koupit?",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002716",
+          "cs": "Chcete něco koupit?"
+        }
+      ]
+    },
+    {
+      "id": "textin.056",
+      "cs": "Vyberte si, pánové.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002741",
+          "cs": "Vyberte si, pánové."
+        }
+      ]
+    },
+    {
+      "id": "textin.057",
+      "cs": "Vřelou slzu, zas někdy na shledanou.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002779",
+          "cs": "Vřelou slzu, zas někdy na shledanou."
+        }
+      ]
+    },
+    {
+      "id": "textin.058",
+      "cs": "To nejde, praskl by vám vak!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0027AE",
+          "cs": "To nejde, praskl by vám vak!"
+        }
+      ]
+    },
+    {
+      "id": "textin.059",
+      "cs": "Vítejte v BoI, šťastní střádalové. Váš účet životního pojištění Dvojnásobný vklad",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0027DC",
+          "cs": "Vítejte v BoI, střádalové. Váš účet"
+        },
+        {
+          "id": "TEXTIND.IO:002811",
+          "cs": "životní pojistky Dvojnásobný vklad"
+        }
+      ]
+    },
+    {
+      "id": "textin.060",
+      "cs": "je přečerpaný!\nVěřte mi! Svěřte mi své penízky!",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002859",
+          "cs": "je přečerpaný!"
+        },
+        {
+          "id": "TEXTIND.IO:002870",
+          "cs": "Věřte mi! Svěřte mi své penízky!"
+        }
+      ]
+    },
+    {
+      "id": "textin.061",
+      "cs": "Vklad\nVýběr",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002BB0",
+          "cs": "Vklad"
+        },
+        {
+          "id": "TEXTIND.IO:002BC4",
+          "cs": "Výběr"
+        }
+      ]
+    },
+    {
+      "id": "textin.062",
+      "cs": "orel královský",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002D88",
+          "cs": "orel královský"
+        }
+      ]
+    },
+    {
+      "id": "textin.063",
+      "cs": "cvičený pavián",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002DA8",
+          "cs": "cvičený pavián"
+        }
+      ]
+    },
+    {
+      "id": "textin.064",
+      "cs": "straka zlodějka",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002DC9",
+          "cs": "straka zlodějka"
+        }
+      ]
+    },
+    {
+      "id": "textin.065",
+      "cs": "mluvící papoušek",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002DE8",
+          "cs": "mluvící papoušek"
+        }
+      ]
+    },
+    {
+      "id": "textin.066",
+      "cs": "myš",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002E0A",
+          "cs": "myš"
+        }
+      ]
+    },
+    {
+      "id": "textin.067",
+      "cs": "masožravá rostlina",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002E1C",
+          "cs": "masožravá rostlina"
+        }
+      ]
+    },
+    {
+      "id": "textin.068",
+      "cs": "kouzelný štít (+4)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002E43",
+          "cs": "kouzelný štít (+4)"
+        }
+      ]
+    },
+    {
+      "id": "textin.069",
+      "cs": "dřevěný štít (+1)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002E67",
+          "cs": "dřevěný štít (+1)"
+        }
+      ]
+    },
+    {
+      "id": "textin.070",
+      "cs": "štít (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002E8A",
+          "cs": "štít (+2)"
+        }
+      ]
+    },
+    {
+      "id": "textin.071",
+      "cs": "těžký štít (+3)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002EA3",
+          "cs": "těžký štít (+3)"
+        }
+      ]
+    },
+    {
+      "id": "textin.072",
+      "cs": "štít Chaosu (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002EC8",
+          "cs": "štít Chaosu (+6)"
+        }
+      ]
+    },
+    {
+      "id": "textin.073",
+      "cs": "šípy",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002EEC",
+          "cs": "šípy"
+        }
+      ]
+    },
+    {
+      "id": "textin.074",
+      "cs": "lano",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002F00",
+          "cs": "lano"
+        }
+      ]
+    },
+    {
+      "id": "textin.075",
+      "cs": "jídlo",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002F12",
+          "cs": "jídlo"
+        }
+      ]
+    },
+    {
+      "id": "textin.076",
+      "cs": "bílé houby",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002F27",
+          "cs": "bílé houby"
+        }
+      ]
+    },
+    {
+      "id": "textin.077",
+      "cs": "mlokový olej",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002F40",
+          "cs": "mlokový olej"
+        }
+      ]
+    },
+    {
+      "id": "textin.078",
+      "cs": "pavučina",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002F5A",
+          "cs": "pavučina"
+        }
+      ]
+    },
+    {
+      "id": "textin.079",
+      "cs": "sušené jmelí",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002F73",
+          "cs": "sušené jmelí"
+        }
+      ]
+    },
+    {
+      "id": "textin.080",
+      "cs": "krysí mozek",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002F99",
+          "cs": "krysí mozek"
+        }
+      ]
+    },
+    {
+      "id": "textin.081",
+      "cs": "drápy chrliče",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002FB1",
+          "cs": "drápy chrliče"
+        }
+      ]
+    },
+    {
+      "id": "textin.082",
+      "cs": "černé houby",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002FD2",
+          "cs": "černé houby"
+        }
+      ]
+    },
+    {
+      "id": "textin.083",
+      "cs": "kožená zbroj (M) (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002FEF",
+          "cs": "kožená zbroj (M) (+2)"
+        }
+      ]
+    },
+    {
+      "id": "textin.084",
+      "cs": "kroužková košile (M) (+3)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003013",
+          "cs": "kroužkovka (M) (+3)"
+        }
+      ]
+    },
+    {
+      "id": "textin.085",
+      "cs": "těžká zbroj (M) (+5)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003035",
+          "cs": "těžká zbroj (M) (+5)"
+        }
+      ]
+    },
+    {
+      "id": "textin.086",
+      "cs": "plátová zbroj (M) (+7)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00305C",
+          "cs": "plátová zbroj (M) (+7)"
+        }
+      ]
+    },
+    {
+      "id": "textin.087",
+      "cs": "kouzelná zbroj (+9)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003082",
+          "cs": "kouzelná zbroj (+9)"
+        }
+      ]
+    },
+    {
+      "id": "textin.088",
+      "cs": "zbroj Chaosu (M) (+12)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0030A6",
+          "cs": "zbroj Chaosu (M) (+12)"
+        }
+      ]
+    },
+    {
+      "id": "textin.089",
+      "cs": "večerní tunika",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0030D1",
+          "cs": "večerní tunika"
+        }
+      ]
+    },
+    {
+      "id": "textin.090",
+      "cs": "kožená zbroj (Ž) (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0030EC",
+          "cs": "kožená zbroj (Ž) (+2)"
+        }
+      ]
+    },
+    {
+      "id": "textin.091",
+      "cs": "plátová zbroj (Ž) (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003110",
+          "cs": "plátová zbroj (Ž) (+6)"
+        }
+      ]
+    },
+    {
+      "id": "textin.092",
+      "cs": "kožich",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003136",
+          "cs": "kožich"
+        }
+      ]
+    },
+    {
+      "id": "textin.093",
+      "cs": "mnišská kutna",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00314E",
+          "cs": "kutna mnicha"
+        }
+      ]
+    },
+    {
+      "id": "textin.094",
+      "cs": "přilba (+1)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003167",
+          "cs": "přilba(+1)"
+        }
+      ]
+    },
+    {
+      "id": "textin.095",
+      "cs": "plechová přilba (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00317E",
+          "cs": "plech. přil.(+2)"
+        }
+      ]
+    },
+    {
+      "id": "textin.096",
+      "cs": "těžká přilba (+3)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00319B",
+          "cs": "těžká přilba (+3)"
+        }
+      ]
+    },
+    {
+      "id": "textin.097",
+      "cs": "přilba Chaosu (+4)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0031BC",
+          "cs": "přilba Chaosu (+4)"
+        }
+      ]
+    },
+    {
+      "id": "textin.098",
+      "cs": "vrhací dýka (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0031DE",
+          "cs": "vrh. dýka (+2)"
+        }
+      ]
+    },
+    {
+      "id": "textin.099",
+      "cs": "kopí (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0031FB",
+          "cs": "kopí (+6)"
+        }
+      ]
+    },
+    {
+      "id": "textin.100",
+      "cs": "šavle (+8)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003213",
+          "cs": "šavle (+8)"
+        }
+      ]
+    },
+    {
+      "id": "textin.101",
+      "cs": "kouzelná dýka (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00322B",
+          "cs": "kouzelná dýka (+6)"
+        }
+      ]
+    },
+    {
+      "id": "textin.102",
+      "cs": "dýka (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00324E",
+          "cs": "dýka (+2)"
+        }
+      ]
+    },
+    {
+      "id": "textin.103",
+      "cs": "těžká sekera (+12)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003266",
+          "cs": "těžká sekera (+12)"
+        }
+      ]
+    },
+    {
+      "id": "textin.104",
+      "cs": "kuše (+9)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003286",
+          "cs": "kuše (+9)"
+        }
+      ]
+    },
+    {
+      "id": "textin.105",
+      "cs": "luk (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0032A1",
+          "cs": "luk (+6)"
+        }
+      ]
+    },
+    {
+      "id": "textin.106",
+      "cs": "řemdih (+8)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0032B9",
+          "cs": "řemdih (+8)"
+        }
+      ]
+    },
+    {
+      "id": "textin.107",
+      "cs": "palcát (+10)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0032D7",
+          "cs": "palcát (+10)"
+        }
+      ]
+    },
+    {
+      "id": "textin.108",
+      "cs": "kouzelný meč (+15)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0032F7",
+          "cs": "kouzelný meč (+15)"
+        }
+      ]
+    },
+    {
+      "id": "textin.109",
+      "cs": "těžký meč (+11)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00331D",
+          "cs": "těžký meč (+11)"
+        }
+      ]
+    },
+    {
+      "id": "textin.110",
+      "cs": "dlouhý meč (+5)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003342",
+          "cs": "dlouhý meč (+5)"
+        }
+      ]
+    },
+    {
+      "id": "textin.111",
+      "cs": "krátký meč (+4)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003360",
+          "cs": "krátký meč (+4)"
+        }
+      ]
+    },
+    {
+      "id": "textin.112",
+      "cs": "kostěný luk (+8)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00337E",
+          "cs": "kostěný luk (+8)"
+        }
+      ]
+    },
+    {
+      "id": "textin.113",
+      "cs": "kyj (+5)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00339D",
+          "cs": "kyj (+5)"
+        }
+      ]
+    },
+    {
+      "id": "textin.114",
+      "cs": "ohnivý meč (+12)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0033B5",
+          "cs": "ohnivý meč (+12)"
+        }
+      ]
+    },
+    {
+      "id": "textin.115",
+      "cs": "bojová hůl (+1)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0033D5",
+          "cs": "boj. hůl (+1)"
+        }
+      ]
+    },
+    {
+      "id": "textin.116",
+      "cs": "kouzelná hůlka (+5)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0033EF",
+          "cs": "kouz. hůlka (+5)"
+        }
+      ]
+    },
+    {
+      "id": "textin.117",
+      "cs": "řemdih (+9)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00340C",
+          "cs": "řemdih (+9)"
+        }
+      ]
+    },
+    {
+      "id": "textin.118",
+      "cs": "sekera Chaosu (+25)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00342A",
+          "cs": "sekera Chaosu (+25)"
+        }
+      ]
+    },
+    {
+      "id": "textin.119",
+      "cs": "trojzubec (+6)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00344C",
+          "cs": "trojzubec (+6)"
+        }
+      ]
+    },
+    {
+      "id": "textin.120",
+      "cs": "bič (+2)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003467",
+          "cs": "bič (+2)"
+        }
+      ]
+    },
+    {
+      "id": "textin.121",
+      "cs": "živá dýka (+10)",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003482",
+          "cs": "živá dýka (+10)"
+        }
+      ]
+    },
+    {
+      "id": "textin.122",
+      "cs": "Zpět",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:003530",
+          "cs": "Zpět"
+        }
+      ]
+    },
+    {
+      "id": "textin.123",
+      "cs": "Kontrola ochrany: Vezměte herní příručku a zadejte slovo z určeného řádku na určené straně.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00353A",
+          "cs": "Kontrola ochrany:"
+        },
+        {
+          "id": "TEXTIND.IO:003557",
+          "cs": "V příručce vyhledejte a zadejte"
+        },
+        {
+          "id": "TEXTIND.IO:003589",
+          "cs": "slovo     na řádku"
+        },
+        {
+          "id": "TEXTIND.IO:0035A5",
+          "cs": "na straně         :"
+        }
+      ]
+    },
+    {
+      "id": "intro.00",
+      "cs": "Vřelou slzu a Dwilgelindildong,",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "PRESENT.IO:000923",
+          "cs": "Vřelou slzu, Dwilgelindildong"
+        }
+      ]
+    },
+    {
+      "id": "intro.01",
+      "cs": "ó vznešený Zubarane, pane Isharu...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "PRESENT.IO:000964",
+          "cs": "ó vznešený Zubarane, pane Isharu..."
+        }
+      ]
+    },
+    {
+      "id": "intro.02",
+      "cs": "Jsem Jon, alchymista Arborey,",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "PRESENT.IO:0009CB",
+          "cs": "Jsem Jon, alchymista Arborey,"
+        }
+      ]
+    },
+    {
+      "id": "intro.03",
+      "cs": "na dobývání světa už příliš starý...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "PRESENT.IO:000A14",
+          "cs": "na dobývání světa už příliš starý..."
+        }
+      ]
+    },
+    {
+      "id": "intro.04",
+      "cs": "Arborea je v pasti jako krysa v kleci,",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "PRESENT.IO:000A7A",
+          "cs": "Arborea je krysou v kleci,"
+        }
+      ]
+    },
+    {
+      "id": "intro.05",
+      "cs": "pavouk ji opředl sítí klamu...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "PRESENT.IO:000AB8",
+          "cs": "pavouk ji opředl sítí klamu..."
+        }
+      ]
+    },
+    {
+      "id": "intro.06",
+      "cs": "Opusť Kendorii a přepluj moře,",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "PRESENT.IO:000B22",
+          "cs": "Opusť Kendorii a přepluj moře,"
+        }
+      ]
+    },
+    {
+      "id": "intro.07",
+      "cs": "vždyť i Ishar, tvá báječná tvrz,",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "PRESENT.IO:000B6D",
+          "cs": "vždyť i Ishar, tvá báječná tvrz,"
+        }
+      ]
+    },
+    {
+      "id": "intro.08",
+      "cs": "může v nadcházející bouři padnout...",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "PRESENT.IO:000BB7",
+          "cs": "může v příští bouři padnout."
+        }
+      ]
+    },
+    {
+      "id": "menu.language_name",
+      "cs": "3 - Čeština",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:003B1B",
+          "cs": "3 - Čeština"
+        }
+      ]
+    },
+    {
+      "id": "shared.GERDEP.IO:001995",
+      "cs": "Irvanův ostrov",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "GERDEP.IO:001995",
+          "cs": "Irvanův ostrov"
+        }
+      ]
+    },
+    {
+      "id": "shared.GERDEP.IO:0019BC",
+      "cs": "Thormův ostrov",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "GERDEP.IO:0019BC",
+          "cs": "Thormův ostrov"
+        }
+      ]
+    },
+    {
+      "id": "shared.GERDEP.IO:0019E3",
+      "cs": "Zachův ostrov",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "GERDEP.IO:0019E3",
+          "cs": "Zachův ostrov"
+        }
+      ]
+    },
+    {
+      "id": "shared.GERDEP.IO:001A09",
+      "cs": "Jonův ostrov",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "GERDEP.IO:001A09",
+          "cs": "Jonův ostrov"
+        }
+      ]
+    },
+    {
+      "id": "shared.GERDEP.IO:001A2E",
+      "cs": "Akeerův ostrov",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "GERDEP.IO:001A2E",
+          "cs": "Akeerův ostrov"
+        }
+      ]
+    },
+    {
+      "id": "shared.GERDEP.IO:001A55",
+      "cs": "Olbarův ostrov",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "GERDEP.IO:001A55",
+          "cs": "Olbarův ostrov"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAP.IO:00003F",
+      "cs": "Zpět",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAP.IO:00003F",
+          "cs": "Zpět"
+        }
+      ]
+    },
+    {
+      "id": "shared.MARCHAND.IO:0000CE",
+      "cs": "ok",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MARCHAND.IO:0000CE",
+          "cs": "ok"
+        }
+      ]
+    },
+    {
+      "id": "shared.MARCHAND.IO:0000DD",
+      "cs": "zpět",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MARCHAND.IO:0000DD",
+          "cs": "zpět"
+        }
+      ]
+    },
+    {
+      "id": "shared.TAVERNE.IO:0002B9",
+      "cs": "ok",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TAVERNE.IO:0002B9",
+          "cs": "ok"
+        }
+      ]
+    },
+    {
+      "id": "shared.TAVERNE.IO:0002C8",
+      "cs": "zpět",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TAVERNE.IO:0002C8",
+          "cs": "zpět"
+        }
+      ]
+    },
+    {
+      "id": "shared.TAVERNE.IO:000988",
+      "cs": "zpět",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TAVERNE.IO:000988",
+          "cs": "zpět"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001E3C",
+      "cs": "potulný rytíř",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001E3C",
+          "cs": "rytíř"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001E4C",
+      "cs": "válečník",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001E4C",
+          "cs": "válečník"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001E5D",
+      "cs": "hraničář",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001E5D",
+          "cs": "hran."
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001E6C",
+      "cs": "barbar",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001E6C",
+          "cs": "barbar"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001E7C",
+      "cs": "zloděj",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001E7C",
+          "cs": "zloděj"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001E8B",
+      "cs": "učenec",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001E8B",
+          "cs": "učen."
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001E99",
+      "cs": "mág",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001E99",
+          "cs": "mág"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001EAA",
+      "cs": "lučištník",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001EAA",
+          "cs": "lučiš."
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001EB9",
+      "cs": "špeh",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001EB9",
+          "cs": "špeh"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001EC8",
+      "cs": "kněz",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001EC8",
+          "cs": "kněz"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001ED7",
+      "cs": "žoldnéř",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001ED7",
+          "cs": "žoldnéř"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001EEA",
+      "cs": "žebrák",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001EEA",
+          "cs": "žebrák"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001EFB",
+      "cs": "vrah",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001EFB",
+          "cs": "vrah"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001F0C",
+      "cs": "kněžka",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001F0C",
+          "cs": "kněžka"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001F1E",
+      "cs": "hmyzí člověk",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001F1E",
+          "cs": "hmyzí člověk"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001F33",
+      "cs": "hypnotizér",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001F33",
+          "cs": "hypnotizér"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001F47",
+      "cs": "čarodějnice",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001F47",
+          "cs": "čar."
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001F58",
+      "cs": "temný rytíř",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001F58",
+          "cs": "temný rytíř"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001F6C",
+      "cs": "okultní mnich",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001F6C",
+          "cs": "okultní mnich"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001F96",
+      "cs": "člověk",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001F96",
+          "cs": "člověk"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001FA5",
+      "cs": "elf",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001FA5",
+          "cs": "elf"
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001FB2",
+      "cs": "trpaslík",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001FB2",
+          "cs": "trp."
+        }
+      ]
+    },
+    {
+      "id": "shared.TABLEAU.IO:001FBF",
+      "cs": "ork",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TABLEAU.IO:001FBF",
+          "cs": "ork"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAIN.IO:0039CC",
+      "cs": "disk A",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:0039CC",
+          "cs": "disk A"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAIN.IO:0039F6",
+      "cs": "disk B",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:0039F6",
+          "cs": "disk B"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAIN.IO:003A20",
+      "cs": "disk C",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:003A20",
+          "cs": "disk C"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAIN.IO:003A4A",
+      "cs": "disk D",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:003A4A",
+          "cs": "disk D"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAIN.IO:003BD1",
+      "cs": "Hudba:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:003BD1",
+          "cs": "Hudba:"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAIN.IO:003BEE",
+      "cs": "1: ano",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:003BEE",
+          "cs": "1: ano"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAIN.IO:003C08",
+      "cs": "2: ne",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:003C08",
+          "cs": "2: ne"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAIN.IO:003C28",
+      "cs": "Hudba:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:003C28",
+          "cs": "Hudba:"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAIN.IO:003C45",
+      "cs": "1: ano",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:003C45",
+          "cs": "1: ano"
+        }
+      ]
+    },
+    {
+      "id": "shared.MAIN.IO:003C5F",
+      "cs": "2: ne",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MAIN.IO:003C5F",
+          "cs": "2: ne"
+        }
+      ]
+    }
+  ]
+}
