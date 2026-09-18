@@ -30,6 +30,15 @@ def slot_bytes(text,slot):
     required=len(payload)+slot['trailing_spaces']
     if required>slot['max_bytes']:
         raise ValueError(f'{required} B exceeds {slot["max_bytes"]} B (including capital spacing/alignment)')
+    if 'colon_column' in slot:
+        column=slot['colon_column']
+        if type(column) is not int or not 0<=column<slot['max_bytes']-slot['trailing_spaces']:
+            raise ValueError('Invalid colon alignment column')
+        if not payload.endswith(b':') or payload.count(b':')!=1:
+            raise ValueError('Aligned label must end with exactly one colon')
+        gap=column-(len(payload)-1)
+        if gap<0:raise ValueError('Label exceeds colon alignment column')
+        payload=payload[:-1]+b' '*gap+b':'
     return payload.ljust(slot['max_bytes'],b' '),dict(
         used_bytes=required,max_bytes=slot['max_bytes'],spare_bytes=slot['max_bytes']-required,
         visible=visible,substitutions=changes)

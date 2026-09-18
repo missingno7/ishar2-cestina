@@ -281,12 +281,12 @@
     },
     {
       "id": "message.0006B2",
-      "cs": "Páčení zámků:",
+      "cs": "Otevírání zámků:",
       "status": "ready",
       "lines": [
         {
           "id": "MESSAGED.IO:000731",
-          "cs": "Páčení zámků:"
+          "cs": "Otevírání zámků:"
         }
       ]
     },
@@ -314,23 +314,23 @@
     },
     {
       "id": "message.000736",
-      "cs": "Zbraně pro 1 ruku:",
+      "cs": "Jednoruční zbraně:",
       "status": "ready",
       "lines": [
         {
           "id": "MESSAGED.IO:0007B8",
-          "cs": "Zbraně pro 1 ruku:"
+          "cs": "Jednoruční zbraně:"
         }
       ]
     },
     {
       "id": "message.000762",
-      "cs": "Zbraně pro 2 ruce:",
+      "cs": "Obouruční zbraně:",
       "status": "ready",
       "lines": [
         {
           "id": "MESSAGED.IO:0007E5",
-          "cs": "Zbraně pro 2 ruce:"
+          "cs": "Obouruční zbraně:"
         }
       ]
     },
@@ -418,7 +418,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:00094F",
-          "cs": "Hlas družiny:"
+          "cs": "Hlasování:"
         }
       ]
     },
@@ -710,7 +710,7 @@
     },
     {
       "id": "message.000E54",
-      "cs": "Při nedostatku volné operační paměti bude hra používat omezený zvuk. Pro optimální chod je třeba 000 bajtů paměti. Stiskněte libovolnou klávesu.",
+      "cs": "Při nedostatku volné operační paměti bude hra používat omezený zvuk. Pro optimální chod je třeba požadovaný počet kB paměti. Stiskněte libovolnou klávesu.",
       "status": "ready",
       "lines": [
         {
@@ -1127,12 +1127,12 @@
     },
     {
       "id": "message.001611",
-      "cs": "Vřelou slzu, vy domýšliví poslové.",
+      "cs": "Vřelou slzu, smělí poslové.",
       "status": "ready",
       "lines": [
         {
           "id": "MESSAGED.IO:0016F9",
-          "cs": "Vřelou slzu, domýšliví poslové."
+          "cs": "Vřelou slzu, smělí poslové."
         }
       ]
     },
@@ -1202,7 +1202,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:001ABB",
-          "cs": "kouz. kotlík"
+          "cs": "kouzelný kotlík"
         }
       ]
     },
@@ -1510,7 +1510,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:001D1E",
-          "cs": "pampelišky"
+          "cs": "svazek pampelišek"
         }
       ]
     },
@@ -1532,7 +1532,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:001D49",
-          "cs": "kroužk. (+3)"
+          "cs": "kroužková košile (+3)"
         }
       ]
     },
@@ -1642,7 +1642,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:001E2E",
-          "cs": "přilba(+1)"
+          "cs": "přilba (+1)"
         }
       ]
     },
@@ -1653,7 +1653,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:001E42",
-          "cs": "přilba(+2)"
+          "cs": "přilba (+2)"
         }
       ]
     },
@@ -1664,7 +1664,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:001E56",
-          "cs": "přilba(+3)"
+          "cs": "přilba (+3)"
         }
       ]
     },
@@ -1675,7 +1675,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:001E6A",
-          "cs": "přilba(+4)"
+          "cs": "přilba (+4)"
         }
       ]
     },
@@ -1686,7 +1686,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:001E7E",
-          "cs": "vrh. dýka (+2)"
+          "cs": "vrhací dýka (+2)"
         }
       ]
     },
@@ -2005,7 +2005,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:00216B",
-          "cs": "trp."
+          "cs": "trpaslík"
         }
       ]
     },
@@ -2022,12 +2022,12 @@
     },
     {
       "id": "message.001FD8",
-      "cs": "ještěří muž",
+      "cs": "ještěrovec",
       "status": "ready",
       "lines": [
         {
           "id": "MESSAGED.IO:002187",
-          "cs": "ještěří muž"
+          "cs": "ještěrovec"
         }
       ]
     },
@@ -2038,7 +2038,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:0021CA",
-          "cs": "rytíř"
+          "cs": "potulný rytíř"
         }
       ]
     },
@@ -2060,7 +2060,7 @@
       "lines": [
         {
           "id": "MESSAGED.IO:0021EB",
-          "cs": "hran."
+          "cs": "hraničář"
         }
       ]
     },
@@ -2082,18 +2082,18 @@
       "lines": [
         {
           "id": "MESSAGED.IO:00220B",
-          "cs": "zlod."
+          "cs": "zloděj"
         }
       ]
     },
     {
       "id": "message.002074",
-      "cs": "učenec",
+      "cs": "klerik",
       "status": "ready",
       "lines": [
         {
           "id": "MESSAGED.IO:002219",
-          "cs": "učenec"
+          "cs": "klerik"
         }
       ]
     },
@@ -2198,12 +2198,12 @@
     },
     {
       "id": "message.00211F",
-      "cs": "čarodějnice",
+      "cs": "čarodějka",
       "status": "ready",
       "lines": [
         {
           "id": "MESSAGED.IO:0022D0",
-          "cs": "čar."
+          "cs": "čarodějka"
         }
       ]
     },
@@ -2446,7 +2446,7 @@
     },
     {
       "id": "textin.006",
-      "cs": "Shandarovi myrmidoni... oběť... unikl jsem... přívěsek... pro vás... ptáci... pověsti... zachraňte Kendor... ááá... je po mně. Ááá... Dwilgelindil... argh!!!",
+      "cs": "Shandarovi myrmidoni... oběť... unikla jsem... přívěsek... pro vás... ptáci... pověsti... zachraňte Kendor... ááá... je po mně. Ááá... Dwilgelindil... argh!!!",
       "status": "ready",
       "lines": [
         {
@@ -2455,7 +2455,7 @@
         },
         {
           "id": "TEXTIND.IO:00064E",
-          "cs": "unikl... přívěsek... pro vás... ptáci..."
+          "cs": "unikla... přívěsek... pro vás... ptáci..."
         },
         {
           "id": "TEXTIND.IO:000681",
@@ -2654,11 +2654,11 @@
         },
         {
           "id": "TEXTIND.IO:000D78",
-          "cs": "Schloumz: tělesná obnova"
+          "cs": "Schloumz: obnova tělesné energie"
         },
         {
           "id": "TEXTIND.IO:000DA9",
-          "cs": "Ghoslam: duševní obnova"
+          "cs": "Ghoslam: obnova duševní energie"
         },
         {
           "id": "TEXTIND.IO:000DD6",
@@ -2668,7 +2668,7 @@
     },
     {
       "id": "textin.016",
-      "cs": "Bulkal: proti ochrnutí\nMildong: proti závrati\nJablou: poplach entů\nHumbolg: neklidný kněz",
+      "cs": "Bulkal: proti ochrnutí\nMildong: proti závrati\nJablou: probuzení enta\nHumbolg: pro neklidného kněze",
       "status": "ready",
       "lines": [
         {
@@ -2681,11 +2681,11 @@
         },
         {
           "id": "TEXTIND.IO:000E49",
-          "cs": "Jablou: poplach entů"
+          "cs": "Jablou: probudí enta"
         },
         {
           "id": "TEXTIND.IO:000E67",
-          "cs": "Humbolg: neklidný kněz"
+          "cs": "Humbolg: pro neklidného kněze"
         }
       ]
     },
@@ -2825,7 +2825,7 @@
     },
     {
       "id": "textin.023",
-      "cs": "Ó Shandare, veleknězi Chaosu, přijmi tuto cudnou oběť, spásnou krev, jež zchladí tvou žízeň! Dwidongdingue! Shandare! Dwidongdingue!",
+      "cs": "Ó Shandare, veleknězi Chaosu, přijmi tuto cudnou oběť, spásnou krev, jež uhasí tvou žízeň! Dwidongdingue! Shandare! Dwidongdingue!",
       "status": "ready",
       "lines": [
         {
@@ -2838,7 +2838,7 @@
         },
         {
           "id": "TEXTIND.IO:0013F3",
-          "cs": "jež zchladí tvou žízeň! Dwidongdingue!"
+          "cs": "jež uhasí tvou žízeň! Dwidongdingue!"
         },
         {
           "id": "TEXTIND.IO:001428",
@@ -3078,7 +3078,7 @@
     },
     {
       "id": "textin.034",
-      "cs": "Dobrá, večer se s vámi sejdu v Blue Velvetu. Nezapomeňte oblek a náhrdelník, důstojník ve službě nemá smysl pro humor!!!",
+      "cs": "Dobrá, večer se s vámi sejdu v Blue Velvetu. Nezapomeňte oblek a přívěsek, důstojník ve službě nemá smysl pro humor!!!",
       "status": "ready",
       "lines": [
         {
@@ -3087,7 +3087,7 @@
         },
         {
           "id": "TEXTIND.IO:001C7F",
-          "cs": "Nezapomeňte oblek a náhrdelník."
+          "cs": "Nezapomeňte oblek a přívěsek."
         },
         {
           "id": "TEXTIND.IO:001CB4",
@@ -3101,7 +3101,7 @@
     },
     {
       "id": "textin.035",
-      "cs": "To nemůže nevyjít, Pogo... vejdi do krámu zezadu, pozlob ty šeptaly, vklouzni dovnitř, naplň pytel a přines mi ho. Je to hračka! Lehké jak vánek!",
+      "cs": "To nemůže nevyjít, Pogo... vejdi do krámu zezadu, pozlob ty šeptaly, vklouzni dovnitř, naplň pytel a přines mi ho. Je to úplná hračka!",
       "status": "ready",
       "lines": [
         {
@@ -3118,7 +3118,7 @@
         },
         {
           "id": "TEXTIND.IO:001D99",
-          "cs": "Hračka! Jak vánek!"
+          "cs": "Úplná hračka!"
         }
       ]
     },
@@ -3147,12 +3147,12 @@
     },
     {
       "id": "textin.037",
-      "cs": "Snif! Její poslední vzkaz: 'Můj hrdino, cítím se v nebezpečí, na čas odcházím... Beru s sebou klíč toho prasáka velitele. Nedělej si starosti. Tvá snoubenka Zeldy.'",
+      "cs": "Vzlyk! Její poslední vzkaz: 'Můj hrdino, cítím se v nebezpečí, na čas odcházím... Beru s sebou klíč toho prasáka velitele. Nedělej si starosti. Tvá snoubenka Zeldy.'",
       "status": "ready",
       "lines": [
         {
           "id": "TEXTIND.IO:001E98",
-          "cs": "Snif! Její poslední vzkaz: 'Můj"
+          "cs": "Vzlyk! Její poslední vzkaz: 'Můj"
         },
         {
           "id": "TEXTIND.IO:001ECB",
@@ -3376,12 +3376,12 @@
     },
     {
       "id": "textin.052",
-      "cs": "Zatímco jste spali, někdo zmizel!",
+      "cs": "Po probuzení někdo z družiny chybí!",
       "status": "ready",
       "lines": [
         {
           "id": "TEXTIND.IO:00268A",
-          "cs": "Během spánku se ztrácí"
+          "cs": "Po probuzení v družině chybí"
         }
       ]
     },
@@ -3468,12 +3468,12 @@
     },
     {
       "id": "textin.060",
-      "cs": "je přečerpaný!\nVěřte mi! Svěřte mi své penízky!",
+      "cs": "je prázdný!\nVěřte mi! Svěřte mi své penízky!",
       "status": "ready",
       "lines": [
         {
           "id": "TEXTIND.IO:002859",
-          "cs": "je přečerpaný!"
+          "cs": "je prázdný!"
         },
         {
           "id": "TEXTIND.IO:002870",
@@ -3745,7 +3745,7 @@
       "lines": [
         {
           "id": "TEXTIND.IO:003013",
-          "cs": "kroužkovka (M) (+3)"
+          "cs": "kroužková košile (M) (+3)"
         }
       ]
     },
@@ -3855,7 +3855,7 @@
       "lines": [
         {
           "id": "TEXTIND.IO:003167",
-          "cs": "přilba(+1)"
+          "cs": "přilba (+1)"
         }
       ]
     },
@@ -3866,7 +3866,7 @@
       "lines": [
         {
           "id": "TEXTIND.IO:00317E",
-          "cs": "plech. přil.(+2)"
+          "cs": "plechová přilba (+2)"
         }
       ]
     },
@@ -3899,7 +3899,7 @@
       "lines": [
         {
           "id": "TEXTIND.IO:0031DE",
-          "cs": "vrh. dýka (+2)"
+          "cs": "vrhací dýka (+2)"
         }
       ]
     },
@@ -4086,7 +4086,7 @@
       "lines": [
         {
           "id": "TEXTIND.IO:0033D5",
-          "cs": "boj. hůl (+1)"
+          "cs": "bojová hůl (+1)"
         }
       ]
     },
@@ -4097,7 +4097,7 @@
       "lines": [
         {
           "id": "TEXTIND.IO:0033EF",
-          "cs": "kouz. hůlka (+5)"
+          "cs": "kouzelná hůlka (+5)"
         }
       ]
     },
@@ -4439,7 +4439,7 @@
       "lines": [
         {
           "id": "TABLEAU.IO:001E3C",
-          "cs": "rytíř"
+          "cs": "potulný rytíř"
         }
       ]
     },
@@ -4461,7 +4461,7 @@
       "lines": [
         {
           "id": "TABLEAU.IO:001E5D",
-          "cs": "hran."
+          "cs": "hraničář"
         }
       ]
     },
@@ -4489,12 +4489,12 @@
     },
     {
       "id": "shared.TABLEAU.IO:001E8B",
-      "cs": "učenec",
+      "cs": "klerik",
       "status": "ready",
       "lines": [
         {
           "id": "TABLEAU.IO:001E8B",
-          "cs": "učen."
+          "cs": "klerik"
         }
       ]
     },
@@ -4516,7 +4516,7 @@
       "lines": [
         {
           "id": "TABLEAU.IO:001EAA",
-          "cs": "lučiš."
+          "cs": "lučištník"
         }
       ]
     },
@@ -4610,12 +4610,12 @@
     },
     {
       "id": "shared.TABLEAU.IO:001F47",
-      "cs": "čarodějnice",
+      "cs": "čarodějka",
       "status": "ready",
       "lines": [
         {
           "id": "TABLEAU.IO:001F47",
-          "cs": "čar."
+          "cs": "čarodějka"
         }
       ]
     },
@@ -4670,7 +4670,7 @@
       "lines": [
         {
           "id": "TABLEAU.IO:001FB2",
-          "cs": "trp."
+          "cs": "trpaslík"
         }
       ]
     },
@@ -4792,6 +4792,156 @@
         {
           "id": "MAIN.IO:003C5F",
           "cs": "2: ne"
+        }
+      ]
+    },
+    {
+      "id": "context.healing_refusal",
+      "cs": "První pomoc této postavě byla odmítnuta.",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000A9F",
+          "cs": "Pomoc:"
+        },
+        {
+          "id": "MESSAGED.IO:000AB4",
+          "cs": "- odmítnuta."
+        }
+      ]
+    },
+    {
+      "id": "context.preview_vitality",
+      "cs": "Životy:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000AD1",
+          "cs": "Životy:"
+        }
+      ]
+    },
+    {
+      "id": "context.preview_agility",
+      "cs": "Obratnost:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000AF2",
+          "cs": "Obratnost:"
+        }
+      ]
+    },
+    {
+      "id": "context.preview_strength",
+      "cs": "Síla:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000B17",
+          "cs": "Síla:"
+        }
+      ]
+    },
+    {
+      "id": "context.preview_constitution",
+      "cs": "Odolnost:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "MESSAGED.IO:000B34",
+          "cs": "Odolnost:"
+        }
+      ]
+    },
+    {
+      "id": "context.zeldy_invocation",
+      "cs": "Dwildy, duchu Silmarils,",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0012E8",
+          "cs": "Dwildy, duchu Silmarils,"
+        }
+      ]
+    },
+    {
+      "id": "context.bank_date",
+      "cs": "má ke dni",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0028A5",
+          "cs": "má ke dni"
+        }
+      ]
+    },
+    {
+      "id": "context.bank_withdrawal",
+      "cs": "Lze vybrat:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:00299B",
+          "cs": "Lze vybrat:"
+        },
+        {
+          "id": "TEXTIND.IO:0029DD",
+          "cs": "Lze vybrat:"
+        },
+        {
+          "id": "TEXTIND.IO:002A12",
+          "cs": "Lze vybrat:"
+        },
+        {
+          "id": "TEXTIND.IO:002A46",
+          "cs": "Lze vybrat:"
+        }
+      ]
+    },
+    {
+      "id": "context.bank_deposit",
+      "cs": "Lze vložit:",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:002A83",
+          "cs": "Lze vložit:"
+        },
+        {
+          "id": "TEXTIND.IO:002AC7",
+          "cs": "Lze vložit:"
+        },
+        {
+          "id": "TEXTIND.IO:002AFE",
+          "cs": "Lze vložit:"
+        },
+        {
+          "id": "TEXTIND.IO:002B34",
+          "cs": "Lze vložit:"
+        }
+      ]
+    },
+    {
+      "id": "context.bank_currency",
+      "cs": "zl",
+      "status": "ready",
+      "lines": [
+        {
+          "id": "TEXTIND.IO:0028EF",
+          "cs": "zl"
+        },
+        {
+          "id": "TEXTIND.IO:00291F",
+          "cs": "zl"
+        },
+        {
+          "id": "TEXTIND.IO:002941",
+          "cs": "zl"
+        },
+        {
+          "id": "TEXTIND.IO:002958",
+          "cs": "zl"
         }
       ]
     }

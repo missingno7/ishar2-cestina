@@ -14,6 +14,7 @@ import zipfile
 
 from resource_codec import unpack,pack_a1
 from text_codec import slot_bytes
+from relocation import relocate
 
 ROOT=Path(__file__).resolve().parents[1]
 def load(path):return json.loads(Path(path).read_text(encoding='utf-8'))
@@ -48,7 +49,9 @@ def validate():
             nums=re.findall(r'\d+(?:[.,]\d+)*',text);allnums+=nums;expected+=slot['numbers']
             if not u['reflow_allowed'] and Counter(nums)!=Counter(slot['numbers']):raise ValueError(sid+': changed numbers')
             if any(not match(token,text) for token in slot['tokens']):raise ValueError(sid+': missing protected token')
-            try:encoded[sid]=slot_bytes(text,slot)[0]
+            try:
+                budget=dict(slot,max_bytes=slot['relocation']['max_bytes']) if 'relocation' in slot else slot
+                encoded[sid]=slot_bytes(text,budget)[0]
             except ValueError as error:raise ValueError(sid+': '+str(error)) from error
         if Counter(allnums)!=Counter(expected):raise ValueError(uid+': changed numeric values')
         if uid=='menu.language_name' and row['lines'][0]['cs']!='3 - Čeština':raise ValueError('Language choice must be 3 - Čeština')
@@ -81,7 +84,12 @@ def targets(game):
         for slot in unit['slots']:
             data=buffers[slot['file']];offset=slot['offset'];length=slot['max_bytes']
             if data[offset+length]!=0:raise ValueError('Missing source terminator '+slot['id'])
-            data[offset:offset+length]=encoded[slot['id']]
+            if 'relocation' not in slot:data[offset:offset+length]=encoded[slot['id']]
+    relocations={s['id']:s for u in layout for s in u['slots'] if 'relocation' in s}
+    order=p.get('relocation_order',[])
+    if len(order)!=len(set(order)) or set(order)!=set(relocations):raise ValueError('Invalid relocation order')
+    for sid in order:
+        slot=relocations[sid];relocate(buffers[slot['file']],slot,encoded[sid])
     for glyph in load(ROOT/'translation/font-delta.json')['glyphs']:
         data=buffers['MAIN.IO'];start=glyph['offset'];width=glyph['width'];height=glyph['height'];seen=set()
         if width!=16 or height not in (10,11,12) or start+width*height//2>len(data):raise ValueError('Invalid glyph geometry')
@@ -112,6 +120,17 @@ def context(game):
         rows.append(dict(id=u['id'],english=[text(r) for r in u['english']],
             references={lang:[text(r) for r in refs] for lang,refs in u['references'].items()},slots=u['slots']))
     save(ROOT/'.local/context.json',dict(private=True,units=rows))
+    translations={u['id']:u for u in load(ROOT/'translation/cs.json')['units']}
+    review=['# Soukromé porovnání EN / DE / FR / CS', '', 'Obsahuje původní herní texty. Nepublikovat.', '']
+    for row in rows:
+        review.extend(['## '+row['id'], '', 'EN: '+' / '.join(row['english']), ''])
+        for lang in ('de','fr'):
+            review.extend([lang.upper()+': '+' / '.join(row['references'].get(lang,[])), ''])
+        cs=translations[row['id']]
+        review.extend(['CS: '+cs['cs'], '', 'Herní řádky:', ''])
+        review.extend('- '+line['cs'] for line in cs['lines'])
+        review.append('')
+    (ROOT/'.local/review-languages.md').write_text('\n'.join(review),encoding='utf-8')
     prompt='Soukromý pracovní podklad; nepublikovat. Uprav český překlad podle anglických referencí, slovníčku a stylu. '
     prompt+='Zachovej ID, čísla, ovládací prvky a limity slotů. Vrať úplný JSON ve stejném formátu jako translation.\n\n'
     prompt+=(ROOT/'docs/TRANSLATION_STYLE.md').read_text(encoding='utf-8')
@@ -132,9 +151,9 @@ def prepare_payload(game):
         for data in (packed[name],compiled[name],base[name]):payload.extend(hashlib.sha256(data).digest())
         number(len(raw[name]));hunks=[];i=0
         while i<len(raw[name]):
-            if base[name][i]==raw[name][i]:i+=1;continue
+            if i<len(base[name]) and base[name][i]==raw[name][i]:i+=1;continue
             begin=i
-            while i<len(raw[name]) and base[name][i]!=raw[name][i]:i+=1
+            while i<len(raw[name]) and (i>=len(base[name]) or base[name][i]!=raw[name][i]):i+=1
             hunks.append((begin,raw[name][begin:i]))
         number(len(hunks))
         for offset,data in hunks:number(offset);number(len(data));payload.extend(data)
@@ -167,7 +186,7 @@ def build(game,cxx=None,windres=None):
     archive=dist/f'Ishar2-Cestina-{version}.zip'
     with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED) as z:
         z.write(exe,'Ishar2-Cestina.exe')
-        z.writestr('CTI-ME.txt',(ROOT/'docs/CTI-ME.txt').read_text(encoding='utf-8').replace('v1.0',version).encode('utf-8-sig'))
+        z.writestr('CTI-ME.txt',(ROOT/'docs/CTI-ME.txt').read_text(encoding='utf-8').replace('{VERSION}',version).encode('utf-8-sig'))
         z.write(ROOT/'LICENSE','LICENSE-code.txt');z.write(ROOT/'LICENSING.md','LICENSING.md')
     (dist/'SHA256SUMS.txt').write_text(digest(archive.read_bytes())+'  '+archive.name+'\n',encoding='ascii')
     print('Release asset:',archive)

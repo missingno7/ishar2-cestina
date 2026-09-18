@@ -1,4 +1,4 @@
-ISHAR 2 – ČEŠTINA v1.0
+ISHAR 2 – ČEŠTINA {VERSION}
 
 1. Rozbalte ZIP a spusťte Ishar2-Cestina.exe.
 2. Vyberte složku hry, ve které jsou START.EXE a soubory .IO.
@@ -15,7 +15,7 @@ a němčinou. Přesná shoda verze se ověří podle obsahu START.EXE a devíti
 měněných souborů. Neznámou verzi ani jinak upravené soubory program nepřepíše.
 Označení obchodu nebo název složky samo o sobě kompatibilitu nezaručuje.
 
-Původních devět souborů se uloží do .ishar2-cs-backup-v1.0 ve složce hry.
+Původních devět souborů se uloží do .ishar2-cs-backup-{VERSION} ve složce hry.
 Tuto zálohu nemažte. Tlačítko Obnovit originál ji použije pro návrat zpět.
 Uložené pozice, nastavení a START.EXE se nemění. Čeština nahrazuje němčinu;
 společné popisky a upravené písmo ovlivňují i ostatní volby jazyka.
@@ -23,11 +23,15 @@ společné popisky a upravené písmo ovlivňují i ostatní volby jazyka.
 Balíček obsahuje vlastní instalační program a rozdílová data lokalizace.
 Neobsahuje celé herní prostředky, původní EXE, hudbu ani kompletní grafiku.
 Původní data rozbalí z vaší hry, změní texty a glyfy a znovu sestaví prostředky.
-Ověření instalátoru nenahrazuje odehrání hry: překlad i opravené intro v1.0
-ještě potřebují testování v DOSBoxu.
+Ověření instalátoru nenahrazuje kompletní odehrání hry v DOSBoxu.
 
 Pro automatické použití jsou dostupné příkazy:
 Ishar2-Cestina.exe --check "cesta ke hře"
 Ishar2-Cestina.exe --apply "cesta ke hře"
 Ishar2-Cestina.exe --restore "cesta ke hře"
 Návratový kód 0 znamená úspěch, 1 chybu. Bez parametrů se otevře okno.
+
+AKTUALIZACE Z v1.0
+Nejprve obnovte originál instalátorem v1.0, potom aplikujte tento balíček.
+Nový instalátor nepřepisuje soubory starší češtiny. Starý instalátor je dostupný
+na https://github.com/missingno7/ishar2-cestina/releases/tag/v1.0

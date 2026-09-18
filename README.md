@@ -1,8 +1,8 @@
 # Ishar 2 – čeština
 
 Česká lokalizace DOS verze **Ishar 2**. Překlad vychází z angličtiny a ve hře
-nahrazuje německou jazykovou variantu. Obsahuje 382 překladových jednotek,
-530 herních řetězců, českou diakritiku v malých písmenech a velká Č a Ž.
+nahrazuje německou jazykovou variantu. Obsahuje 392 překladových jednotek,
+550 herních řetězců, českou diakritiku v malých písmenech a velká Č a Ž.
 
 **Projekt neobsahuje původní hru. Musíte vlastnit a dodat vlastní kompatibilní
 kopii hry.** V Git repozitáři jsou zdrojové kódy, české překladové zdroje,
@@ -10,7 +10,7 @@ technická metadata a změny fontu. Hotový instalátor patří do **GitHub Rele
 
 ## Instalace hotové češtiny
 
-1. Stáhněte **[Ishar2-Cestina-v1.0.zip](https://github.com/missingno7/ishar2-cestina/releases/download/v1.0/Ishar2-Cestina-v1.0.zip)** z [Releases](https://github.com/missingno7/ishar2-cestina/releases). Archiv „Source code“ je pro vývojáře.
+1. Stáhněte **[Ishar2-Cestina-v1.1.zip](https://github.com/missingno7/ishar2-cestina/releases/download/v1.1/Ishar2-Cestina-v1.1.zip)** z [Releases](https://github.com/missingno7/ishar2-cestina/releases). Archiv „Source code“ je pro vývojáře.
 2. ZIP rozbalte a spusťte `Ishar2-Cestina.exe` (64bitové Windows).
 3. Ukončete hru. Vyberte její složku obsahující `START.EXE` a klikněte na
    **Aplikovat češtinu**.
@@ -18,19 +18,23 @@ technická metadata a změny fontu. Hotový instalátor patří do **GitHub Rele
 
 Instalátor je přenosný, nevyžaduje Python, .NET ani instalaci dalších knihoven.
 Potřebuje oprávnění k zápisu do složky hry. Před změnou ověří verzi a vytvoří
-zálohu devíti souborů v `.ishar2-cs-backup-v1.0`. Tlačítko **Obnovit originál**
+zálohu devíti souborů v `.ishar2-cs-backup-v1.1`. Tlačítko **Obnovit originál**
 vrátí původní soubory. Zálohu proto nemažte. Uložené pozice, konfigurace
 DOSBoxu ani herní EXE se nemění.
 
+Změny vydání shrnuje [přehled v1.1](docs/RELEASE-v1.1.md).
+
+**Přechod z v1.0:** nejprve použijte tlačítko **Obnovit originál** v instalátoru v1.0. Potom aplikujte v1.1. Nový instalátor úmyslně nepřepisuje soubory jiné verze češtiny; alternativou je vlastní čistá instalace hry. Starý instalátor zůstává dostupný v [releasu v1.0](https://github.com/missingno7/ishar2-cestina/releases/tag/v1.0).
+
 ## Stav a podporovaná verze
 
-Aktuální základ je **v1.0, první veřejné vydání**. Podporovaná je ověřená DOS verze
+Aktuální verze je **v1.1**, s opravami překladu, zarovnání a plnými názvy. Podporovaná je ověřená DOS verze
 obsahující angličtinu, francouzštinu a němčinu. Shoda se určuje přesnými
 SHA-256 součty v [`metadata/profile.json`](metadata/profile.json), nikoli
 podle názvu obchodu nebo adresáře. Jiná vydání či dříve upravené prostředky
 instalátor odmítne; pro jiné verze zatím není připravená migrace.
 
-Instalace, obnova a shoda výsledných souborů s v1.0 byly otestovány na kopiích
+Instalace, obnova a shoda výsledných souborů s v1.1 byly otestovány na kopiích
 hry. Provedené technické testy nenahrazují odehrání hry. Celý překlad a
 opravené intro stále potřebují ověření hraním v DOSBoxu. EXE není digitálně
 podepsaný.
@@ -40,8 +44,8 @@ Známá omezení:
 - **Č a Ž** zůstávají velká s diakritikou. **Ú → ú**, **Š → š**, **Á → A**.
   Ostatní nepodporovaná velká písmena ztrácejí diakritiku. Čisté překladové
   zdroje zůstávají ve správné Unicode češtině; změny probíhají jen při exportu.
-- Řádky musí dodržet původní německé délky. Sestavovač příliš dlouhé texty
-  odmítá, automaticky je neusekává.
+- Běžné řádky dodržují původní délky. U 23 výslovně schválených míst
+  sestavovač přesune delší text do přidaného bloku. Neověřené prodlužování odmítá.
 - Písmo a některé popisky jsou společné, takže úpravy ovlivní i ostatní
   jazykové volby. Češtinu vybírejte číslem 3.
 - Nápisy zapečené do grafiky nebo dosud nenalezené texty mohou zůstat původní.
@@ -63,7 +67,7 @@ Kompilátor musí být v `PATH`. Cesty lze zadat také přes `--cxx` a `--windre
 například `--cxx "C:\msys64\mingw64\bin\g++.exe"` a
 `--windres "C:\msys64\mingw64\bin\windres.exe"`.
 
-Vznikne `build/Ishar2-Cestina.exe`, `dist/Ishar2-Cestina-v1.0.zip` a
+Vznikne `build/Ishar2-Cestina.exe`, `dist/Ishar2-Cestina-v1.1.zip` a
 `dist/SHA256SUMS.txt`. **K releasu přiložte ZIP a kontrolní součty.** Adresáře
 `build/` a `dist/` necommitujte. Sestavení původní instalaci nijak nepřepisuje.
 Podrobnosti jsou v [návodu pro vývoj](docs/DEVELOPMENT.md) a
@@ -89,14 +93,15 @@ python tools/project.py import --game-dir "D:\MojeHry\ISHAR2"
 Vzniklý `.local/context.json` je soukromý pracovní podklad. **Nepřidávejte ho
 do Gitu ani k releasu.** Stejně platí pro vyexportované fontové PNG.
 Postup s obrázky a zadáním pro AI popisuje [vývojový návod](docs/DEVELOPMENT.md).
-Překlad má dodržovat [jazykový styl](docs/TRANSLATION_STYLE.md).
+Překlad má dodržovat [jazykový styl](docs/TRANSLATION_STYLE.md) a [návaznosti textů](docs/TEXT_CONTEXT.md).
 
 ## Co patch mění
 
 Upravuje devět prostředků: `MESSAGED.IO`, `TEXTIND.IO`, `PRESENT.IO`,
 `MAIN.IO`, `GERDEP.IO`, `TABLEAU.IO`, `MAP.IO`, `MARCHAND.IO`, `TAVERNE.IO`.
 Mění texty, pixely českých glyfů a pozici jednoho řádku dialogu. EXE se
-nepatchuje a adresy textů ani velikosti rozbalených prostředků se neposouvají.
+nepatchuje. U 23 delších textů vloží přesměrování a připojí nové bloky;
+původní adresy ostatních instrukcí zůstávají zachované. Tři prostředky se zvětší.
 
 Instalátor rozbalí původní data z uživatelovy hry, aplikuje rozdíly a sestaví
 nové prostředky. `PRESENT.IO` znovu komprimuje do A1, aby se vyhnul chybě

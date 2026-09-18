@@ -113,7 +113,11 @@ static Bytes pack(const Bytes& raw){
     if(nbits)out.push_back(acc<<(8-nbits));out.insert(out.end(),4,0);return out;
 }
 static Bytes applyPatch(const Bytes& input,const Patch& p){
-    Bytes raw=decode(input,p.length);require(hash(raw)==p.base,"Rozbalená data neodpovídají podporované verzi.");
+    require(input.size()>=6,"Krátký prostředek.");
+    size_t originalLength=size_t(input[0])|(size_t(input[1])<<8)|(size_t(input[2])<<16);
+    require(originalLength<=p.length&&p.length<=8*1024*1024,"Neplatná cílová délka.");
+    Bytes raw=decode(input,originalLength);require(hash(raw)==p.base,"Rozbalená data neodpovídají podporované verzi.");
+    raw.resize(p.length,0);
     for(const auto& h:p.hunks)std::copy(h.data.begin(),h.data.end(),raw.begin()+h.offset);
     Bytes result=(raw[3]&128)?pack(raw):raw;
     require(hash(result)==p.target,"Výsledek patche neprošel kontrolou. Hra nebyla změněna.");return result;

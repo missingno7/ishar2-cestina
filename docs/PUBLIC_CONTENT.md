@@ -19,7 +19,7 @@ ani jeho vendor knihovny. Nepřevzaly se ani hotové fontové PNG: české glyfy
 vycházejí z původního písma, proto je veřejný pouze rozdíl a lokální export.
 Veřejné zdroje nevyžadují žádné soubory z původního pracovního projektu.
 
-Ověření samostatnosti při oddělení projektu:
+Historické ověření samostatnosti při oddělení projektu pro v1.0:
 
 - Build z veřejných zdrojů a originální hry vytvořil všech devět prostředků
   přesně podle referenčních SHA-256 v1.0.
@@ -32,3 +32,5 @@ Ověření samostatnosti při oddělení projektu:
 
 Tento popis dokládá technické oddělení dat. Nepředstavuje licenci na původní
 hru ani právní posouzení odvozeného překladu; rozsah licence je v LICENSING.md.
+
+Ověření v1.1: všech devět prostředků z veřejného sestavovače se přesně shoduje se schválenou pracovní kopií. Prošlo všech 23 testů včetně instalace, obnovy, návratu po chybě a přechodu v1.0 → obnova originálu → v1.1. Release ZIP obsahuje pouze instalátor, návod a licenční texty.

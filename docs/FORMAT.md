@@ -23,8 +23,9 @@ Je to jeden bajt profilu, nikoli přibalený blok původní grafiky.
 
 Texty jsou jedno-bajtové vlastní kódy glyfů, nikoli UTF-8 ani CP852.
 Unicode čeština se převádí až při sestavení. Velké ASCII písmeno má za sebou
-mezerník kvůli šířce původního fontu. Původní délka slotu a ukončující nula
-se zachovají; zbytek se doplní mezerami.
+mezerník kvůli šířce původního fontu. U běžných slotů se původní délka a ukončující nula
+zachovají; zbytek se doplní mezerami. U pevných popisků `colon_column`
+určuje pozici dvojtečky; výplň se vloží před ni.
 
 Velká Č a Ž zachovávají 12px posun (kód glyfu + mezera). Ú a Š se při
 exportu mění na malá ú a š s běžným 6px posunem; Á se mění na A.
@@ -41,7 +42,7 @@ Pixely fontu jsou čtyřbitové indexy, dva v každém bajtu. Veřejný fontový
 JSON ukládá jen přepsané pixely a jejich souřadnice; původní bitmapu získá
 nástroj při lokálním exportu. Hlavičky glyfů ani tabulky adres se nemění.
 
-Jediná změna skriptu je operand pozice čtvrtého řádku jednoho dialogu:
+Vedle přesměrování delších textů se mění operand pozice čtvrtého řádku jednoho dialogu:
 TEXTIND.IO na 0x1CFB mění řádek 2 na 3. Sestavovač ověří původní hodnotu.
 Překlad odměny v textin.013 používá anglických 100 000; samotný ekonomický
 skript hry se nemění. Rozdíly zdrojových jazyků se řeší redakčně podle EN.
@@ -70,3 +71,9 @@ soubory. Při zachycené chybě vrací provedené změny. Nejde o jedinou atomic
 operaci pro všech devět souborů: po výpadku napájení lze dokončit směs
 ověřených originálů a cílových souborů nebo obnovit zálohu. Po takovém výpadku
 může zůstat pracovní složka či zámek `.ishar2-cs-lock`.
+
+## Přesměrování v1.1
+
+23 ověřených přiřazení literálů je nahrazeno čtyřbajtovým relativním skokem na připojený blok s českým textem, původním typem cíle a skokem zpět. Podporované cíle jsou lokální řetězec s jedno/dvoubajtovou adresou a konkrétní výraz pro řádek s indexem nula. Původní instrukce se ověří hashem. Jiné tvary, segment od 64 KiB nebo skok mimo ±32 KiB se odmítají. Hlavička prostředku dostane novou délku.
+
+Instalátor nejprve rozbalí původní deklarovanou délku a ověří SHA-256. Potom zvětší pracovní buffer na cílovou délku a aplikuje rozdílové bloky včetně přidaného konce; nakonec ověří výsledný SHA-256. Připojené bloky obsahují české texty a nezbytné instrukce, nikoli kopie původních assetů.

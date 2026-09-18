@@ -15,3 +15,12 @@
 - Rozpočet herního řádku: každé malé písmeno včetně diakritiky = 1 bajt, ASCII velké písmeno a většina velkých českých písmen = 2 bajty včetně mezery pro šířku; Ú a Š se převádějí na malá ú a š a zabírají 1 bajt, běžná interpunkce/mezera/číslice = 1. Přičti `leading_spaces` a `trailing_spaces` ze slotu. Typografická výpustka se změní na tři tečky. Nepočítej bajty UTF-8.
 - Mezi řádky můžeš přesouvat slova pouze při `reflow_allowed: true`. Zachovej pořadí a význam alternativních voleb, dynamických fragmentů a samostatných položek menu. Společné popisky bez anglické varianty jsou výslovně označené; použij jejich doloženou jazykovou referenci a uveď to v poznámce.
 - Volbu němčiny pojmenuj přesně `3 - Čeština`. Angličtina a francouzština zůstanou v menu, ale česká kopie má společný pozměněný font a některé společné texty, takže není plně trojjazyčnou distribucí.
+
+- Klerik je samostatná třída vedle kněze. Jablou a Humbolg jsou lektvary. Pro vstup do Blue Velvetu je potřeba přívěsek; náhrdelník patří jinému úkolu.
+- Role a návaznosti všech jednotek uvádí TEXT_CONTEXT.md. Vkládaná jména zůstávají v nominativu, proto dynamické věty piš bez požadavku na skloňování či znalost pohlaví.
+
+## Velká písmena a zarovnání
+
+Rasy, povolání a předměty jsou obecná jména a v českých hodnotách zůstávají malým počátečním písmenem (barbar, válečník, trpaslík). Nadpisy vlastností a samostatné pokyny začínají velkým; vlastní jména si velká písmena zachovávají. Anglickou kapitalizaci nepřenášejte plošně. Velké písmeno obvykle spotřebuje o bajt více; „Válečník“ má 9 herních bajtů proti limitu 8, „válečník“ se vejde přesně.
+
+U 26 pevných popisků vlastností, dovedností a hlasování určuje `colon_column` původní bajtovou pozici dvojtečky (od nuly, včetně rozestupu velkých písmen). Sestavovač doplňuje mezery před dvojtečku, nikoli až za ni. České zdroje zůstávají bez výplňových mezer. Pravidlo se nepoužívá plošně na dialogy, ceny nebo věty s dvojtečkou.

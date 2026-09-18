@@ -665,7 +665,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 11
         }
       ],
       "english": [
@@ -712,7 +713,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 11
         }
       ],
       "english": [
@@ -759,7 +761,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 11
         }
       ],
       "english": [
@@ -806,7 +809,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 11
         }
       ],
       "english": [
@@ -853,7 +857,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 11
         }
       ],
       "english": [
@@ -900,7 +905,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 11
         }
       ],
       "english": [
@@ -947,7 +953,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 15
         }
       ],
       "english": [
@@ -994,7 +1001,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 14
         }
       ],
       "english": [
@@ -1041,7 +1049,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 14
         }
       ],
       "english": [
@@ -1088,7 +1097,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 14
         }
       ],
       "english": [
@@ -1135,7 +1145,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 14
         }
       ],
       "english": [
@@ -1182,7 +1193,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 14
         }
       ],
       "english": [
@@ -1229,7 +1241,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 13
         }
       ],
       "english": [
@@ -1276,7 +1289,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 18
         }
       ],
       "english": [
@@ -1323,7 +1337,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 18
         }
       ],
       "english": [
@@ -1370,7 +1385,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 18
         }
       ],
       "english": [
@@ -1416,10 +1432,9 @@
           "max_bytes": 19,
           "leading_spaces": 0,
           "trailing_spaces": 0,
-          "numbers": [
-            "1"
-          ],
-          "tokens": []
+          "numbers": [],
+          "tokens": [],
+          "colon_column": 18
         }
       ],
       "english": [
@@ -1465,10 +1480,9 @@
           "max_bytes": 19,
           "leading_spaces": 0,
           "trailing_spaces": 0,
-          "numbers": [
-            "2"
-          ],
-          "tokens": []
+          "numbers": [],
+          "tokens": [],
+          "colon_column": 18
         }
       ],
       "english": [
@@ -1515,7 +1529,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 18
         }
       ],
       "english": [
@@ -1562,7 +1577,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 18
         }
       ],
       "english": [
@@ -1609,7 +1625,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 14
         }
       ],
       "english": [
@@ -1656,7 +1673,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 14
         }
       ],
       "english": [
@@ -1703,7 +1721,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 14
         }
       ],
       "english": [
@@ -1750,7 +1769,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 14
         }
       ],
       "english": [
@@ -1797,7 +1817,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 14
         }
       ],
       "english": [
@@ -1844,7 +1865,8 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "colon_column": 13
         }
       ],
       "english": [
@@ -5324,7 +5346,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 6841,
+            "resume": 6860,
+            "instruction_sha256": "a454805a7185aee95f8c466d16f179fcc534b3c8598dcb2f111f63d0ae49b1a1",
+            "max_bytes": 15,
+            "retained_cs": "kouz. kotlík"
+          }
         }
       ],
       "english": [
@@ -6650,7 +6679,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 7452,
+            "resume": 7468,
+            "instruction_sha256": "4a57d145de7fdffaf5e134152ea741df97a95c6d004603fb006ee8f105d4e96c",
+            "max_bytes": 17,
+            "retained_cs": "pampelišky"
+          }
         }
       ],
       "english": [
@@ -6748,7 +6784,14 @@
           "numbers": [
             "3"
           ],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 7495,
+            "resume": 7514,
+            "instruction_sha256": "33e7f843949ecfe968091cbd2f57ff90d487a68077dee9d52d42a51e230ba624",
+            "max_bytes": 21,
+            "retained_cs": "kroužk. (+3)"
+          }
         }
       ],
       "english": [
@@ -7232,7 +7275,14 @@
           "numbers": [
             "1"
           ],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 7724,
+            "resume": 7740,
+            "instruction_sha256": "40082be206e194e2e8061c1ca1af9d0f61b78b2d7b11e6f2b1160b547003e65b",
+            "max_bytes": 11,
+            "retained_cs": "přilba(+1)"
+          }
         }
       ],
       "english": [
@@ -7281,7 +7331,14 @@
           "numbers": [
             "2"
           ],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 7744,
+            "resume": 7760,
+            "instruction_sha256": "b8b2ae7a6290ea9cb16aef71d8beb7abb15f31df03c1468b3709be931b3ecca0",
+            "max_bytes": 11,
+            "retained_cs": "přilba(+2)"
+          }
         }
       ],
       "english": [
@@ -7330,7 +7387,14 @@
           "numbers": [
             "3"
           ],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 7764,
+            "resume": 7780,
+            "instruction_sha256": "70c80969c44b05f66d97c6ce0318de03536e7eaa0a6009d62146b6c6415a9842",
+            "max_bytes": 11,
+            "retained_cs": "přilba(+3)"
+          }
         }
       ],
       "english": [
@@ -7379,7 +7443,14 @@
           "numbers": [
             "4"
           ],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 7784,
+            "resume": 7800,
+            "instruction_sha256": "ab5506336770cd7f9e0232c4617377b315d853d354774391a6b4806e350372e5",
+            "max_bytes": 11,
+            "retained_cs": "přilba(+4)"
+          }
         }
       ],
       "english": [
@@ -8841,7 +8912,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 8553,
+            "resume": 8564,
+            "instruction_sha256": "3263c0c238ae0a0844165c1a0d996f13e12ebb8e02786284175439a7c04b5fe7",
+            "max_bytes": 8,
+            "retained_cs": "trp."
+          }
         }
       ],
       "english": [
@@ -8982,7 +9060,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 8648,
+            "resume": 8660,
+            "instruction_sha256": "ff6713eda98dc4d155ae8cc5a075066903f7e334a90c5eb0650b76fb7e1b8cab",
+            "max_bytes": 13,
+            "retained_cs": "rytíř"
+          }
         }
       ],
       "english": [
@@ -9076,7 +9161,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 8681,
+            "resume": 8693,
+            "instruction_sha256": "cae8b39d006f6af76b69701b682ae76de6f9f42deb5431da1056480662b6a275",
+            "max_bytes": 8,
+            "retained_cs": "hran."
+          }
         }
       ],
       "english": [
@@ -9170,7 +9262,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 8713,
+            "resume": 8723,
+            "instruction_sha256": "8aafee2b3d5b9a953ad7ba8f4b3fe953c1b6fdd5f510568e0dc3218d7b8e545a",
+            "max_bytes": 6,
+            "retained_cs": "zlod."
+          }
         }
       ],
       "english": [
@@ -9687,7 +9786,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 8910,
+            "resume": 8920,
+            "instruction_sha256": "f2ac1e993b79fd542755abd390e2fbec3d72b2bb47ec76e6d10e305dae28e910",
+            "max_bytes": 9,
+            "retained_cs": "čar."
+          }
         }
       ],
       "english": [
@@ -12171,7 +12277,7 @@
     },
     {
       "id": "textin.015",
-      "kind": "spell_list",
+      "kind": "potion_list",
       "reflow_allowed": false,
       "slots": [
         {
@@ -12308,7 +12414,7 @@
     },
     {
       "id": "textin.016",
-      "kind": "spell_list",
+      "kind": "potion_list",
       "reflow_allowed": false,
       "slots": [
         {
@@ -18000,7 +18106,14 @@
           "numbers": [
             "3"
           ],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 12305,
+            "resume": 12335,
+            "instruction_sha256": "380417e8d5a731211fa03338c735bc40accec9ac6d1189f641e09ceacb850022",
+            "max_bytes": 26,
+            "retained_cs": "kroužkovka (M) (+3)"
+          }
         }
       ],
       "english": [
@@ -18484,7 +18597,14 @@
           "numbers": [
             "1"
           ],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 12645,
+            "resume": 12664,
+            "instruction_sha256": "500384361f69d21c847597fc2661f1bc4aae7af34705a733c52af46a70f3d447",
+            "max_bytes": 11,
+            "retained_cs": "přilba(+1)"
+          }
         }
       ],
       "english": [
@@ -18533,7 +18653,14 @@
           "numbers": [
             "2"
           ],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 12668,
+            "resume": 12693,
+            "instruction_sha256": "872fd890ad9110836c05732f2d826f1bad7b7ac4a8983c8261c9445f565dd093",
+            "max_bytes": 20,
+            "retained_cs": "plech. přil.(+2)"
+          }
         }
       ],
       "english": [
@@ -19513,7 +19640,14 @@
           "numbers": [
             "1"
           ],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 13267,
+            "resume": 13289,
+            "instruction_sha256": "fdec92acc888abe3d75d282656271152df938cbf308c3abc6b67db46fc34fad5",
+            "max_bytes": 15,
+            "retained_cs": "boj. hůl (+1)"
+          }
         }
       ],
       "english": [
@@ -19562,7 +19696,14 @@
           "numbers": [
             "5"
           ],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 13293,
+            "resume": 13318,
+            "instruction_sha256": "8a43e4b43fbf2c4aad01afc5adf1ad8d2a0361d0ddbe280a7879df6a798b7fc2",
+            "max_bytes": 19,
+            "retained_cs": "kouz. hůlka (+5)"
+          }
         }
       ],
       "english": [
@@ -20906,7 +21047,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 7738,
+            "resume": 7750,
+            "instruction_sha256": "59af2f25d4a8f5a172bfdb9cdb7455af1eb20e39cc0112dfdc9f4c33d88814be",
+            "max_bytes": 13,
+            "retained_cs": "rytíř"
+          }
         }
       ],
       "english": [
@@ -20972,7 +21120,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 7771,
+            "resume": 7782,
+            "instruction_sha256": "0690845fd25b638702f7197207258c3599922af6b7a36b383d405532179b0276",
+            "max_bytes": 8,
+            "retained_cs": "hran."
+          }
         }
       ],
       "english": [
@@ -21071,7 +21226,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 7817,
+            "resume": 7827,
+            "instruction_sha256": "44539428982e3095f9d2862b2d5566f552007fd6345b4c56fa4fc46352b61d2c",
+            "max_bytes": 6,
+            "retained_cs": "kler."
+          }
         }
       ],
       "english": [
@@ -21137,7 +21299,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 7848,
+            "resume": 7859,
+            "instruction_sha256": "140827079a47eb9bfbdd953e6bbb2e5a516a50767434010c8a181a3a79833068",
+            "max_bytes": 9,
+            "retained_cs": "lučiš."
+          }
         }
       ],
       "english": [
@@ -21428,7 +21597,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 8005,
+            "resume": 8018,
+            "instruction_sha256": "fa262c90b17a4879052afab5c9d5e128fe9f673cc153735123e35b6f0a2864ad",
+            "max_bytes": 9,
+            "retained_cs": "čar."
+          }
         }
       ],
       "english": [
@@ -21593,7 +21769,14 @@
           "leading_spaces": 0,
           "trailing_spaces": 0,
           "numbers": [],
-          "tokens": []
+          "tokens": [],
+          "relocation": {
+            "start": 8112,
+            "resume": 8121,
+            "instruction_sha256": "efcee97699688ac1b308fc4262b48c69cbbf4f0aab00c4d9ed2cfc44ae13b800",
+            "max_bytes": 8,
+            "retained_cs": "trp."
+          }
         }
       ],
       "english": [
@@ -21988,6 +22171,761 @@
             "file": "MAIN.IO",
             "offset": 15455,
             "length": 11
+          }
+        ]
+      }
+    },
+    {
+      "id": "context.healing_refusal",
+      "kind": "dynamic_fragment",
+      "reflow_allowed": false,
+      "slots": [
+        {
+          "id": "MESSAGED.IO:000A9F",
+          "file": "MESSAGED.IO",
+          "offset": 2719,
+          "max_bytes": 10,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        },
+        {
+          "id": "MESSAGED.IO:000AB4",
+          "file": "MESSAGED.IO",
+          "offset": 2740,
+          "max_bytes": 14,
+          "leading_spaces": 1,
+          "trailing_spaces": 0,
+          "numbers": [],
+          "tokens": []
+        }
+      ],
+      "english": [
+        {
+          "file": "MESSAGEE.IO",
+          "offset": 2583,
+          "length": 18
+        }
+      ],
+      "references": {
+        "de": [
+          {
+            "file": "MESSAGED.IO",
+            "offset": 2719,
+            "length": 10
+          },
+          {
+            "file": "MESSAGED.IO",
+            "offset": 2740,
+            "length": 14
+          }
+        ],
+        "en": [
+          {
+            "file": "MESSAGEE.IO",
+            "offset": 2583,
+            "length": 18
+          }
+        ],
+        "fr": [
+          {
+            "file": "MESSAGE.IO",
+            "offset": 2629,
+            "length": 22
+          }
+        ]
+      }
+    },
+    {
+      "id": "context.preview_vitality",
+      "kind": "stat_label",
+      "reflow_allowed": false,
+      "slots": [
+        {
+          "id": "MESSAGED.IO:000AD1",
+          "file": "MESSAGED.IO",
+          "offset": 2769,
+          "max_bytes": 13,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        }
+      ],
+      "english": [
+        {
+          "file": "MESSAGEE.IO",
+          "offset": 2624,
+          "length": 12
+        }
+      ],
+      "references": {
+        "de": [
+          {
+            "file": "MESSAGED.IO",
+            "offset": 2769,
+            "length": 13
+          }
+        ],
+        "en": [
+          {
+            "file": "MESSAGEE.IO",
+            "offset": 2624,
+            "length": 12
+          }
+        ],
+        "fr": [
+          {
+            "file": "MESSAGE.IO",
+            "offset": 2674,
+            "length": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "context.preview_agility",
+      "kind": "stat_label",
+      "reflow_allowed": false,
+      "slots": [
+        {
+          "id": "MESSAGED.IO:000AF2",
+          "file": "MESSAGED.IO",
+          "offset": 2802,
+          "max_bytes": 17,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        }
+      ],
+      "english": [
+        {
+          "file": "MESSAGEE.IO",
+          "offset": 2656,
+          "length": 12
+        }
+      ],
+      "references": {
+        "de": [
+          {
+            "file": "MESSAGED.IO",
+            "offset": 2802,
+            "length": 17
+          }
+        ],
+        "en": [
+          {
+            "file": "MESSAGEE.IO",
+            "offset": 2656,
+            "length": 12
+          }
+        ],
+        "fr": [
+          {
+            "file": "MESSAGE.IO",
+            "offset": 2706,
+            "length": 11
+          }
+        ]
+      }
+    },
+    {
+      "id": "context.preview_strength",
+      "kind": "stat_label",
+      "reflow_allowed": false,
+      "slots": [
+        {
+          "id": "MESSAGED.IO:000B17",
+          "file": "MESSAGED.IO",
+          "offset": 2839,
+          "max_bytes": 9,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        }
+      ],
+      "english": [
+        {
+          "file": "MESSAGEE.IO",
+          "offset": 2688,
+          "length": 12
+        }
+      ],
+      "references": {
+        "de": [
+          {
+            "file": "MESSAGED.IO",
+            "offset": 2839,
+            "length": 9
+          }
+        ],
+        "en": [
+          {
+            "file": "MESSAGEE.IO",
+            "offset": 2688,
+            "length": 12
+          }
+        ],
+        "fr": [
+          {
+            "file": "MESSAGE.IO",
+            "offset": 2737,
+            "length": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "context.preview_constitution",
+      "kind": "stat_label",
+      "reflow_allowed": false,
+      "slots": [
+        {
+          "id": "MESSAGED.IO:000B34",
+          "file": "MESSAGED.IO",
+          "offset": 2868,
+          "max_bytes": 14,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        }
+      ],
+      "english": [
+        {
+          "file": "MESSAGEE.IO",
+          "offset": 2720,
+          "length": 16
+        }
+      ],
+      "references": {
+        "de": [
+          {
+            "file": "MESSAGED.IO",
+            "offset": 2868,
+            "length": 14
+          }
+        ],
+        "en": [
+          {
+            "file": "MESSAGEE.IO",
+            "offset": 2720,
+            "length": 16
+          }
+        ],
+        "fr": [
+          {
+            "file": "MESSAGE.IO",
+            "offset": 2766,
+            "length": 16
+          }
+        ]
+      }
+    },
+    {
+      "id": "context.zeldy_invocation",
+      "kind": "dialogue_fragment",
+      "reflow_allowed": false,
+      "slots": [
+        {
+          "id": "TEXTIND.IO:0012E8",
+          "file": "TEXTIND.IO",
+          "offset": 4840,
+          "max_bytes": 31,
+          "leading_spaces": 0,
+          "trailing_spaces": 0,
+          "numbers": [],
+          "tokens": []
+        }
+      ],
+      "english": [
+        {
+          "file": "TEXTINE.IO",
+          "offset": 4819,
+          "length": 37
+        }
+      ],
+      "references": {
+        "de": [
+          {
+            "file": "TEXTIND.IO",
+            "offset": 4840,
+            "length": 31
+          }
+        ],
+        "en": [
+          {
+            "file": "TEXTINE.IO",
+            "offset": 4819,
+            "length": 37
+          }
+        ],
+        "fr": [
+          {
+            "file": "TEXTIN.IO",
+            "offset": 5026,
+            "length": 35
+          }
+        ]
+      }
+    },
+    {
+      "id": "context.bank_date",
+      "kind": "dynamic_fragment",
+      "reflow_allowed": false,
+      "slots": [
+        {
+          "id": "TEXTIND.IO:0028A5",
+          "file": "TEXTIND.IO",
+          "offset": 10405,
+          "max_bytes": 17,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        }
+      ],
+      "english": [
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10300,
+          "length": 13
+        }
+      ],
+      "references": {
+        "de": [
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10405,
+            "length": 17
+          }
+        ],
+        "en": [
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10300,
+            "length": 13
+          }
+        ],
+        "fr": [
+          {
+            "file": "TEXTIN.IO",
+            "offset": 10742,
+            "length": 14
+          }
+        ]
+      }
+    },
+    {
+      "id": "context.bank_withdrawal",
+      "kind": "dynamic_label",
+      "reflow_allowed": false,
+      "slots": [
+        {
+          "id": "TEXTIND.IO:00299B",
+          "file": "TEXTIND.IO",
+          "offset": 10651,
+          "max_bytes": 21,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        },
+        {
+          "id": "TEXTIND.IO:0029DD",
+          "file": "TEXTIND.IO",
+          "offset": 10717,
+          "max_bytes": 21,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        },
+        {
+          "id": "TEXTIND.IO:002A12",
+          "file": "TEXTIND.IO",
+          "offset": 10770,
+          "max_bytes": 21,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        },
+        {
+          "id": "TEXTIND.IO:002A46",
+          "file": "TEXTIND.IO",
+          "offset": 10822,
+          "max_bytes": 21,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        }
+      ],
+      "english": [
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10534,
+          "length": 24
+        },
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10603,
+          "length": 24
+        },
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10659,
+          "length": 3
+        },
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10693,
+          "length": 24
+        }
+      ],
+      "references": {
+        "de": [
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10651,
+            "length": 21
+          },
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10717,
+            "length": 21
+          },
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10770,
+            "length": 21
+          },
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10822,
+            "length": 21
+          }
+        ],
+        "en": [
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10534,
+            "length": 24
+          },
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10603,
+            "length": 24
+          },
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10659,
+            "length": 3
+          },
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10693,
+            "length": 24
+          }
+        ],
+        "fr": [
+          {
+            "file": "TEXTIN.IO",
+            "offset": 10998,
+            "length": 23
+          },
+          {
+            "file": "TEXTIN.IO",
+            "offset": 11066,
+            "length": 23
+          },
+          {
+            "file": "TEXTIN.IO",
+            "offset": 11121,
+            "length": 23
+          },
+          {
+            "file": "TEXTIN.IO",
+            "offset": 11175,
+            "length": 23
+          }
+        ]
+      }
+    },
+    {
+      "id": "context.bank_deposit",
+      "kind": "dynamic_label",
+      "reflow_allowed": false,
+      "slots": [
+        {
+          "id": "TEXTIND.IO:002A83",
+          "file": "TEXTIND.IO",
+          "offset": 10883,
+          "max_bytes": 23,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        },
+        {
+          "id": "TEXTIND.IO:002AC7",
+          "file": "TEXTIND.IO",
+          "offset": 10951,
+          "max_bytes": 23,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        },
+        {
+          "id": "TEXTIND.IO:002AFE",
+          "file": "TEXTIND.IO",
+          "offset": 11006,
+          "max_bytes": 23,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        },
+        {
+          "id": "TEXTIND.IO:002B34",
+          "file": "TEXTIND.IO",
+          "offset": 11060,
+          "max_bytes": 23,
+          "leading_spaces": 0,
+          "trailing_spaces": 1,
+          "numbers": [],
+          "tokens": []
+        }
+      ],
+      "english": [
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10757,
+          "length": 21
+        },
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10823,
+          "length": 21
+        },
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10876,
+          "length": 21
+        },
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10928,
+          "length": 12
+        }
+      ],
+      "references": {
+        "de": [
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10883,
+            "length": 23
+          },
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10951,
+            "length": 23
+          },
+          {
+            "file": "TEXTIND.IO",
+            "offset": 11006,
+            "length": 23
+          },
+          {
+            "file": "TEXTIND.IO",
+            "offset": 11060,
+            "length": 23
+          }
+        ],
+        "en": [
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10757,
+            "length": 21
+          },
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10823,
+            "length": 21
+          },
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10876,
+            "length": 21
+          },
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10928,
+            "length": 12
+          }
+        ],
+        "fr": [
+          {
+            "file": "TEXTIN.IO",
+            "offset": 11238,
+            "length": 21
+          },
+          {
+            "file": "TEXTIN.IO",
+            "offset": 11304,
+            "length": 21
+          },
+          {
+            "file": "TEXTIN.IO",
+            "offset": 11357,
+            "length": 21
+          },
+          {
+            "file": "TEXTIN.IO",
+            "offset": 11409,
+            "length": 21
+          }
+        ]
+      }
+    },
+    {
+      "id": "context.bank_currency",
+      "kind": "currency_suffix",
+      "reflow_allowed": false,
+      "slots": [
+        {
+          "id": "TEXTIND.IO:0028EF",
+          "file": "TEXTIND.IO",
+          "offset": 10479,
+          "max_bytes": 3,
+          "leading_spaces": 1,
+          "trailing_spaces": 0,
+          "numbers": [],
+          "tokens": []
+        },
+        {
+          "id": "TEXTIND.IO:00291F",
+          "file": "TEXTIND.IO",
+          "offset": 10527,
+          "max_bytes": 3,
+          "leading_spaces": 1,
+          "trailing_spaces": 0,
+          "numbers": [],
+          "tokens": []
+        },
+        {
+          "id": "TEXTIND.IO:002941",
+          "file": "TEXTIND.IO",
+          "offset": 10561,
+          "max_bytes": 3,
+          "leading_spaces": 1,
+          "trailing_spaces": 0,
+          "numbers": [],
+          "tokens": []
+        },
+        {
+          "id": "TEXTIND.IO:002958",
+          "file": "TEXTIND.IO",
+          "offset": 10584,
+          "max_bytes": 3,
+          "leading_spaces": 1,
+          "trailing_spaces": 0,
+          "numbers": [],
+          "tokens": []
+        }
+      ],
+      "english": [
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10362,
+          "length": 3
+        },
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10410,
+          "length": 3
+        },
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10444,
+          "length": 3
+        },
+        {
+          "file": "TEXTINE.IO",
+          "offset": 10467,
+          "length": 3
+        }
+      ],
+      "references": {
+        "de": [
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10479,
+            "length": 3
+          },
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10527,
+            "length": 3
+          },
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10561,
+            "length": 3
+          },
+          {
+            "file": "TEXTIND.IO",
+            "offset": 10584,
+            "length": 3
+          }
+        ],
+        "en": [
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10362,
+            "length": 3
+          },
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10410,
+            "length": 3
+          },
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10444,
+            "length": 3
+          },
+          {
+            "file": "TEXTINE.IO",
+            "offset": 10467,
+            "length": 3
+          }
+        ],
+        "fr": [
+          {
+            "file": "TEXTIN.IO",
+            "offset": 10826,
+            "length": 3
+          },
+          {
+            "file": "TEXTIN.IO",
+            "offset": 10874,
+            "length": 3
+          },
+          {
+            "file": "TEXTIN.IO",
+            "offset": 10908,
+            "length": 3
+          },
+          {
+            "file": "TEXTIN.IO",
+            "offset": 10931,
+            "length": 3
           }
         ]
       }

@@ -80,7 +80,7 @@ Patcher kontroluje přesnou shodu originálu nebo svého vlastního výstupu;
 automatická migrace z jiné české verze není implementovaná. Nejprve obnovte
 originál předchozím patchem nebo použijte čistou instalaci.
 
-`reference_release_sha256` uchovává kontrolní součty výchozí v1.0 pro dohledatelnost.
+`reference_release_sha256` uchovává kontrolní součty schváleného vydání v1.1.
 Nezamyká další překlady: nové výstupní součty se odvodí ze skutečných zdrojů
 při každém sestavení a vloží do patche.
 
@@ -117,3 +117,7 @@ Volitelný automatický test vlastního GUI na Windows (vyžaduje Pillow) je
 dočasnou kopii, ověří tlačítka Aplikovat a Obnovit a uloží snímek pouze
 vlastního okna do `.local/gui/gui-preview.png`. Na chvíli zobrazí testované
 okno bez aktivace; nepořizuje snímek celé plochy.
+
+## Delší texty od v1.1
+
+`slots[].relocation` obsahuje hranice a SHA-256 původní instrukce, schválený rozpočet a `retained_cs` (starší české znění v nyní nedostupné části původní instrukce, pro přesnou reprodukci otestovaných dat). `profile.relocation_order` určuje deterministické pořadí připojených bloků. Není třeba žádný soukromý výzkumný nástroj: vše sestaví `tools/project.py` a `tools/relocation.py` z vlastní hry.

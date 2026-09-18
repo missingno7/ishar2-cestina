@@ -25,6 +25,9 @@ class InstallerTests(unittest.TestCase):
     def setUpClass(cls):
         HERE.mkdir(parents=True,exist_ok=True)
         cls.expected=project.targets(GAME)[3]
+        for name,data in cls.expected.items():
+            if hashlib.sha256(data).hexdigest()!=project.profile()['reference_release_sha256'][name]:
+                raise AssertionError('Build differs from approved release: '+name)
     def setUp(self):
         self.temp=tempfile.TemporaryDirectory(prefix='installer-test-',dir=HERE)
         self.game=Path(self.temp.name)/'Hra s češtinou a mezerou'
@@ -54,6 +57,16 @@ class InstallerTests(unittest.TestCase):
         self.run_exe('--restore');self.assertEqual(self.snapshot(),self.initial)
         self.run_exe('--apply');self.assert_target()
         self.assertFalse(list(self.game.glob('.ishar2-cs-stage-*')))
+    @unittest.skipUnless(os.environ.get('ISHAR2_V10_INSTALLER'),'Optional v1.0 installer required for upgrade test')
+    def test_upgrade_via_v10_restore(self):
+        old=os.environ['ISHAR2_V10_INSTALLER']
+        subprocess.run([old,'--apply',str(self.game)],check=True,timeout=30)
+        before=self.snapshot();self.run_exe('--apply',ok=False)
+        self.assertEqual(self.snapshot(),before)
+        subprocess.run([old,'--restore',str(self.game)],check=True,timeout=30)
+        self.assertEqual(self.snapshot(),self.initial)
+        self.run_exe('--apply');self.assert_target()
+        self.run_exe('--restore');self.assertEqual(self.snapshot(),self.initial)
     def test_wrong_resource_no_mutation(self):
         path=self.game/'PRESENT.IO';path.write_bytes(path.read_bytes()+b'changed')
         before=self.snapshot();self.run_exe('--apply',ok=False)
